@@ -1,0 +1,198 @@
+﻿ID,ExperimentaUnitTreatment_Series,Code,Type,Description,Container,Institution,Preservative,Weight(g),PreservativeVolume(mL),Notes,Attachment,Status,Series,Experiment_ExperimentalUnit_Serie,ExperimentalUnit_Series,Position,SeriesDayCount,SeriesDate,SeriesLetter,ExperimentalUnitSlaughteringDayCount_Series,Experiment_code,Experiment_name,BacteriaDescription,BacteriaID,pH,Individual
+C001aO,TC1,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aO,TC1,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aO,TC1,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aO,TC2,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aO,TC2,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aO,TC2,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aO,TC3,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aO,TC3,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aO,TC3,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aO,TC4,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aO,TC4,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aO,TC4,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aO,TC3,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aO,TC3,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aO,TC3,O,Colon,Digesta,50 mL tube,NMBU,None,,,,,Shipped NMBU,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C001aA,TC1,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aA,TC1,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aA,TC1,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aA,TC2,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aA,TC2,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aA,TC2,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aA,TC3,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aA,TC3,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aA,TC3,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aA,TC4,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aA,TC4,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aA,TC4,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aA,TC3,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aA,TC3,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aA,TC3,A,Duodenum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C001aB,TC1,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aB,TC1,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aB,TC1,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aB,TC2,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aB,TC2,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aB,TC2,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aB,TC3,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aB,TC3,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aB,TC3,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aB,TC4,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aB,TC4,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aB,TC4,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aB,TC3,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aB,TC3,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aB,TC3,B,Jejunum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C001aC,TC1,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aC,TC1,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aC,TC1,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aC,TC2,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aC,TC2,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aC,TC2,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aC,TC3,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aC,TC3,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aC,TC3,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aC,TC4,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aC,TC4,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aC,TC4,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aC,TC3,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aC,TC3,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aC,TC3,C,Ileum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C001aD,TC1,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aD,TC1,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aD,TC1,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aD,TC2,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aD,TC2,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aD,TC2,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aD,TC3,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aD,TC3,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aD,TC3,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aD,TC4,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aD,TC4,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aD,TC4,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aD,TC3,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aD,TC3,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aD,TC3,D,Caecum,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C000zH,TC0,H,Caecum,Tissue,2 mL tube,,,,,Laboratory Negative Control Extraction H samples,,,C000z,C,C000,,,,z,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C000
+C001aH,TC1,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aH,TC1,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aH,TC1,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aH,TC2,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aH,TC2,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aH,TC2,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aH,TC3,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aH,TC3,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aH,TC3,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aH,TC4,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aH,TC4,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aH,TC4,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aH,TC3,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aH,TC3,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aH,TC3,H,Caecum,Tissue,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C001aI,TC1,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aI,TC1,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aI,TC1,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aI,TC2,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aI,TC2,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aI,TC2,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aI,TC3,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aI,TC3,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aI,TC3,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aI,TC4,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aI,TC4,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aI,TC4,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aI,TC3,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aI,TC3,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aI,TC3,I,Caecum,Digesta,5 mL tube,ATL,None,,,,,Shipped Afekta,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C001aN,TC1,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,5.87,29.0,,,,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aN,TC1,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,7.30,37.0,,,,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aN,TC1,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,0.00,0.0,,,,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aN,TC2,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,4.74,24.0,Added 20 instead,,,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aN,TC2,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,5.70,29.0,,,,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aN,TC2,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,6.30,32.0,,,,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aN,TC3,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,1.32,7.0,,,,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aN,TC3,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,6.39,32.0,,,,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aN,TC3,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,2.03,10.0,,,,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aN,TC4,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,1.38,7.0,,,,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aN,TC4,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,0.00,0.0,,,,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aN,TC4,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,0.92,5.0,,,,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aN,TC3,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,0.92,5.0,,,,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aN,TC3,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,0.92,5.0,,,,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aN,TC3,N,Caecum,Digesta,50 mL tube,UCPH,Cryoprotective solution ,0.92,5.0,,,,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C000zF,TC0,F,Caecum,Digesta,,,,,,Laboratory Negative Control Extraction F samples,,,C000z,C,C000,,,,z,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C000
+C001aF,TC1,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aF,TC1,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aF,TC1,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aF,TC2,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aF,TC2,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aF,TC2,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aF,TC3,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aF,TC3,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aF,TC3,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aF,TC4,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aF,TC4,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aF,TC4,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aF,TC3,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aF,TC3,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aF,TC3,F,Caecum,Digesta,2 mL tube,UCPH,DNA/RNA Shield,,,,,In progress,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C001aK,TC1,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aK,TC1,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aK,TC1,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aK,TC2,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aK,TC2,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aK,TC2,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aK,TC3,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aK,TC3,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aK,TC3,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aK,TC4,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aK,TC4,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aK,TC4,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aK,TC3,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aK,TC3,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aK,TC3,K,Caecum,Tissue,5 mL tube,ATL,None,,,,,Shipped Afekta,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C001aM,TC1,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aM,TC1,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aM,TC1,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aM,TC2,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aM,TC2,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aM,TC2,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aM,TC3,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aM,TC3,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aM,TC3,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aM,TC4,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aM,TC4,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aM,TC4,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aM,TC3,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aM,TC3,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aM,TC3,M,Colon,All section,Undefined Tissue cassette,UCPH,Glycerol,,,,,,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C001aE,TC1,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,3.88,19.0,,,Shipped NMBU,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aE,TC1,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,8.33,42.0,,,Shipped NMBU,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aE,TC1,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,0.48,24.0,,,Shipped NMBU,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aE,TC2,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,5.23,26.0,,,Shipped NMBU,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aE,TC2,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,8.18,41.0,,,Shipped NMBU,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aE,TC2,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,5.62,28.0,,,Shipped NMBU,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aE,TC3,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,0.81,4.0,,,Shipped NMBU,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aE,TC3,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,7.91,40.0,,,Shipped NMBU,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aE,TC3,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,2.12,11.0,,,Shipped NMBU,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aE,TC4,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,2.09,10.0,,,Shipped NMBU,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aE,TC4,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,0.00,0.0,,,Shipped NMBU,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aE,TC4,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,0.02,0.1,,,Shipped NMBU,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aE,TC3,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,0.02,0.1,,,Shipped NMBU,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aE,TC3,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,0.02,0.1,,,Shipped NMBU,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aE,TC3,E,Caecum,Digesta,50 mL tube,NMBU,Cryoprotective solution ,0.02,0.1,,,Shipped NMBU,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015
+C001aG,TC1,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C001a,C,C001,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C001
+C002aG,TC1,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C002a,C,C002,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C002
+C003aG,TC1,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C003a,C,C003,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C003
+C004aG,TC2,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C004a,C,C004,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C004
+C005aG,TC2,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C005a,C,C005,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C005
+C006aG,TC2,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C006a,C,C006,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C006
+C007aG,TC3,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C007a,C,C007,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C007
+C008aG,TC3,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C008a,C,C008,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C008
+C009aG,TC3,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C009a,C,C009,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C009
+C010aG,TC4,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C010a,C,C010,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C010
+C011aG,TC4,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C011a,C,C011,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C011
+C012aG,TC4,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C012a,C,C012,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C012
+C013aG,TC3,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C013a,C,C013,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C013
+C014aG,TC3,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C014a,C,C014,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C014
+C015aG,TC3,G,Caecum S2,Mucosa,2 mL tube,UCPH,,,,,,,C015a,C,C015,,40,,a,,C,C - Proof-of-principle swine trial,,Add Bacteria,,C015

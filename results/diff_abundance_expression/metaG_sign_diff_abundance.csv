@@ -1,0 +1,383 @@
+"","category","contrast","MAG","phylum","lowest","taxonomy","log2FoldChange","padj","baseMean","label","bar_start","bar_stop","bar_label","bar_y"
+"1","diet","control_v_AcGGM","MAG024","Bacillota","g__Butyribacter (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyribacter",4.53201546579514,0.000251782321130121,46299.6969679049,"MAG024: p__Bacillota
+g__Butyribacter (1)","control","AcGGM","4.53 ***",19.5264328971552
+"2","diet","control_v_AcGGM","MAG030","Bacteroidota","s__Parabacteroides distasonis_C","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Tannerellaceae;g__Parabacteroides;s__Parabacteroides distasonis_C",3.16791740253423,0.0398779017394203,633532.522984509,"MAG030: p__Bacteroidota
+s__Parabacteroides distasonis_C","control","AcGGM","3.17 *",21.9115359042314
+"3","diet","control_v_AcGGM","MAG032","Cyanobacteriota","g__Avigastranaerophilus","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Avigastranaerophilus",3.45813582876454,0.00756311917706918,74934.4651172717,"MAG032: p__Cyanobacteriota
+g__Avigastranaerophilus","control","AcGGM","3.46 **",19.4823892278727
+"4","diet","control_v_AcGGM","MAG067","Bacillota","s__CAG-353 sp017829005","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__CAG-353;s__CAG-353 sp017829005",-3.63500048988935,0.00756311917706918,277937.941989773,"MAG067: p__Bacillota
+s__CAG-353 sp017829005","control","AcGGM","-3.64 **",21.180348595173
+"5","diet","control_v_AcGGM","MAG068","Bacillota","g__CAG-115","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__CAG-115",-3.63266077467485,0.00828085944710498,156986.853327736,"MAG068: p__Bacillota
+g__CAG-115","control","AcGGM","-3.63 **",21.0849824262241
+"6","diet","control_v_AcGGM","MAG070","Bacillota","f__UBA1381 (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__UBA1381;f__UBA1381",-4.42124787578753,0.00190588896099537,52195.563637157,"MAG070: p__Bacillota
+f__UBA1381 (1)","control","AcGGM","-4.42 **",19.8291243881581
+"7","diet","control_v_AcGGM","MAG091","Bacillota","s__UMGS1889 sp945877315","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UMGS1889;s__UMGS1889 sp945877315",-5.77758546234958,0.000158779529800921,25982.3789663822,"MAG091: p__Bacillota
+s__UMGS1889 sp945877315","control","AcGGM","-5.78 ***",18.98660085051
+"8","diet","control_v_AcGGM","MAG111","Bacillota","s__Faecalibacterium sp900539885","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium;s__Faecalibacterium sp900539885",-3.4247641340337,0.00532279608813164,42922.4026890805,"MAG111: p__Bacillota
+s__Faecalibacterium sp900539885","control","AcGGM","-3.42 **",18.9472136826641
+"9","diet","control_v_AcGGM","MAG117","Bacillota","g__UBA7867 (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__UBA7867",-4.22925920961557,0.00145325856415571,6146.44474400773,"MAG117: p__Bacillota
+g__UBA7867 (1)","control","AcGGM","-4.23 **",16.8093844119692
+"10","diet","control_v_AcGGM","MAG134","Bacillota","g__UMGS363 (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UMGS363",2.64222952093057,0.0390394021496049,108290.352798154,"MAG134: p__Bacillota
+g__UMGS363 (2)","control","AcGGM","2.64 *",20.3638998705592
+"11","diet","control_v_AcGGM","MAG136","Bacillota","s__Clostridium sp000435835","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium sp000435835",-3.8421996041551,0.002646961732955,187016.642521574,"MAG136: p__Bacillota
+s__Clostridium sp000435835","control","AcGGM","-3.84 **",20.3993802871096
+"12","diet","control_v_AcGGM","MAG166","Bacillota","g__Ruminiclostridium_E (3)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E",-5.51923265280398,0.000205512796005534,266708.008236098,"MAG166: p__Bacillota
+g__Ruminiclostridium_E (3)","control","AcGGM","-5.52 ***",21.8060405989914
+"13","diet","control_v_AcGGM","MAG167","Bacillota","g__Pararoseburia (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Pararoseburia",-3.69905388350259,0.00574062998809139,56074.5200419812,"MAG167: p__Bacillota
+g__Pararoseburia (2)","control","AcGGM","-3.7 **",19.3800175436213
+"14","diet","control_v_AcGGM","MAG170","Bacillota","s__Acetatifactor sp022769665","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor sp022769665",-2.99213849924167,0.017744779236633,232667.229173216,"MAG170: p__Bacillota
+s__Acetatifactor sp022769665","control","AcGGM","-2.99 *",20.913520019841
+"15","diet","control_v_AcGGM","MAG174","Bacillota","g__CAG-882 (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-882",-3.8902844831911,0.00193092872132222,44981.6515955685,"MAG174: p__Bacillota
+g__CAG-882 (2)","control","AcGGM","-3.89 **",19.4397601090699
+"16","diet","control_v_AcGGM","MAG176","Spirochaetota","s__Treponema_D sp016293005","d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016293005",-7.21670070895415,4.86662008588446e-06,109307.176745283,"MAG176: p__Spirochaetota
+s__Treponema_D sp016293005","control","AcGGM","-7.22 ***",20.609704291288
+"17","diet","control_v_AcGGM","MAG178","Bacillota","g__Dysosmobacter (4)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter",-3.00054985350508,0.00980644438509099,138592.360201795,"MAG178: p__Bacillota
+g__Dysosmobacter (4)","control","AcGGM","-3 **",20.0526782184391
+"18","diet","control_v_AcGGM","MAG180","Bacteroidota","g__Phocaeicola (1)","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola",-4.62352644495013,0.000158779529800921,79574.1247295218,"MAG180: p__Bacteroidota
+g__Phocaeicola (1)","control","AcGGM","-4.62 ***",19.8349941544636
+"19","diet","control_v_AcGGM","MAG191","Bacteroidota","s__Cryptobacteroides sp004555145","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp004555145",-3.07695329532869,0.00677664097796123,114041.037127383,"MAG191: p__Bacteroidota
+s__Cryptobacteroides sp004555145","control","AcGGM","-3.08 **",19.8113175390699
+"20","diet","control_v_AcGGM","MAG199","Bacteroidota","s__CAG-873 sp945829225","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp945829225",-4.32728498671877,0.00120934184165503,21785.4890550746,"MAG199: p__Bacteroidota
+s__CAG-873 sp945829225","control","AcGGM","-4.33 **",18.4993784787698
+"21","diet","control_v_AcGGM","MAG203","Bacillota","g__COE1 (3)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1",-3.192248294972,0.0407579911126411,95959.151060586,"MAG203: p__Bacillota
+g__COE1 (3)","control","AcGGM","-3.19 *",20.4518926652533
+"22","diet","control_v_AcGGM","MAG227","Bacillota","s__Dorea_A sp022769185","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Dorea_A;s__Dorea_A sp022769185",3.30430655794159,0.00163275885992772,42334.0468450773,"MAG227: p__Bacillota
+s__Dorea_A sp022769185","control","AcGGM","3.3 **",18.60135766644
+"23","diet","control_v_AcGGM","MAG231","Pseudomonadota","s__Actinobacillus_A porcitonsillarum","d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Pasteurellaceae;g__Actinobacillus_A;s__Actinobacillus_A porcitonsillarum",5.4320801304855,0.000314520751507382,70560.8700390205,"MAG231: p__Pseudomonadota
+s__Actinobacillus_A porcitonsillarum","control","AcGGM","5.43 ***",20.2190887820489
+"24","diet","control_v_AcGGM","MAG235","Bacillota","g__Fusicatenibacter","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Fusicatenibacter",3.61068591329964,0.002646961732955,32525.3206194922,"MAG235: p__Bacillota
+g__Fusicatenibacter","control","AcGGM","3.61 **",19.0204194584229
+"25","diet","control_v_AcGGM","MAG252","Bacillota","g__Ruminococcus","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus",5.09487247286351,0.000160859985552625,13958.1906812257,"MAG252: p__Bacillota
+g__Ruminococcus","control","AcGGM","5.09 ***",17.5901816891143
+"26","diet","control_v_AcGGM","MAG264","Bacillota","g__Eubacterium_R (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R",-5.62947891695851,7.10380420712715e-05,36736.0038950076,"MAG264: p__Bacillota
+g__Eubacterium_R (2)","control","AcGGM","-5.63 ***",18.8354510280882
+"27","diet","control_v_AcGGM","MAG267","Bacillota","s__UBA3282 sp022781395","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__UBA3282 sp022781395",-3.20585991594016,0.0303359968774383,78774.690555157,"MAG267: p__Bacillota
+s__UBA3282 sp022781395","control","AcGGM","-3.21 *",19.721660238035
+"28","diet","control_v_AcGGM","MAG274","Bacteroidota","s__Alistipes sp945494785","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp945494785",-4.27653999092973,0.00828085944710498,47930.8351517887,"MAG274: p__Bacteroidota
+s__Alistipes sp945494785","control","AcGGM","-4.28 **",19.4646347528489
+"29","diet","control_v_AcGGM","MAG275","Bacillota","s__Lachnospira sp017626275","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira;s__Lachnospira sp017626275",-3.308153608699,0.0154123889671475,52835.8845749982,"MAG275: p__Bacillota
+s__Lachnospira sp017626275","control","AcGGM","-3.31 *",19.4593909499562
+"30","diet","control_v_AcGGM","MAG277","Bacillota","s__Vescimonas sp900313295","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Vescimonas;s__Vescimonas sp900313295",-2.6092511571845,0.0159188245316665,23949.6007152386,"MAG277: p__Bacillota
+s__Vescimonas sp900313295","control","AcGGM","-2.61 *",18.2370129142753
+"31","diet","control_v_AcGGM","MAG286","Bacillota","s__SFJ001 sp004555865","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__SFJ001;s__SFJ001 sp004555865",-4.34790669439981,0.00180956926643963,33351.7729211473,"MAG286: p__Bacillota
+s__SFJ001 sp004555865","control","AcGGM","-4.35 **",18.9439864043751
+"32","diet","control_v_AcGGM","MAG294","Bacillota","s__Scatovivens sp017625465","d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__Scatovivens;s__Scatovivens sp017625465",-6.59821993748934,7.10380420712715e-05,11795.8214723382,"MAG294: p__Bacillota
+s__Scatovivens sp017625465","control","AcGGM","-6.6 ***",17.5614073937635
+"33","diet","control_v_AcGGM","MAG297","Bacillota","s__CAG-475 sp900769205","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-917;g__CAG-475;s__CAG-475 sp900769205",-6.84091745596628,1.7609208910052e-08,41061.4106644238,"MAG297: p__Bacillota
+s__CAG-475 sp900769205","control","AcGGM","-6.84 ***",19.3652930458388
+"34","diet","control_v_AcGGM","MAG300","Bacillota","s__Aphodocola sp945788325","d__Bacteria;p__Bacillota;c__Bacilli;o__RF39;f__UBA660;g__Aphodocola;s__Aphodocola sp945788325",-4.53572823050125,0.00163275885992772,36835.3342280491,"MAG300: p__Bacillota
+s__Aphodocola sp945788325","control","AcGGM","-4.54 **",19.2663449615068
+"35","diet","control_v_AcGGM","MAG309","Bacillota","g__RUG666","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__RUG666",-7.30439610410912,1.21825198761034e-05,8735.2404280864,"MAG309: p__Bacillota
+g__RUG666","control","AcGGM","-7.3 ***",17.1781202221012
+"36","diet","control_v_AcGGM","MAG318","Bacillota","s__Acetatifactor sp016303085","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor sp016303085",-7.00059297313283,2.93044444927516e-08,34239.997052219,"MAG318: p__Bacillota
+s__Acetatifactor sp016303085","control","AcGGM","-7 ***",18.8564472892134
+"37","diet","control_v_AcGGM","MAG340","Cyanobacteriota","g__Scatousia","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Scatousia",-5.75309857638863,5.302651714972e-05,69346.090875441,"MAG340: p__Cyanobacteriota
+g__Scatousia","control","AcGGM","-5.75 ***",19.9885315793642
+"38","diet","control_v_AcGGM","MAG349","Desulfobacterota","g__Desulfovibrio","d__Bacteria;p__Desulfobacterota;c__Desulfovibrionia;o__Desulfovibrionales;f__Desulfovibrionaceae;g__Desulfovibrio",3.87537904038313,0.0104059083754102,36508.0364791394,"MAG349: p__Desulfobacterota
+g__Desulfovibrio","control","AcGGM","3.88 *",19.2901917209751
+"39","diet","control_v_AcGGM","MAG352","Pseudomonadota","s__Basfia_A porcinus","d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Pasteurellaceae;g__Basfia_A;s__Basfia_A porcinus",5.4780956460108,0.00017048560475676,6854.90192002927,"MAG352: p__Pseudomonadota
+s__Basfia_A porcinus","control","AcGGM","5.48 ***",17.1145231973154
+"40","dev_stage","control_v_pre-weaning","MAG004","Bacteroidota","s__Alloprevotella sp004552865","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp004552865",4.67566624101251,0.00144476628428313,180851.361708508,"MAG004: p__Bacteroidota
+s__Alloprevotella sp004552865","control","pre-weaning","4.68 **",23.6247937757219
+"41","dev_stage","control_v_pre-weaning","MAG009","Bacillota","g__Enteromonas (1)","d__Bacteria;p__Bacillota;c__Bacilli;o__RFN20;f__CAG-826;g__Enteromonas",3.70011701001977,0.00536869733744529,152510.114134558,"MAG009: p__Bacillota
+g__Enteromonas (1)","control","pre-weaning","3.7 **",22.9096708042044
+"42","dev_stage","control_v_pre-weaning","MAG012","Bacillota","g__Ruminiclostridium_E (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E",6.74872643185749,1.24247075741175e-05,175391.244388489,"MAG012: p__Bacillota
+g__Ruminiclostridium_E (1)","control","pre-weaning","6.75 ***",23.7810140966137
+"43","dev_stage","control_v_pre-weaning","MAG024","Bacillota","g__Butyribacter (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyribacter",5.73518531035671,1.24247075741175e-05,46299.6969679049,"MAG024: p__Bacillota
+g__Butyribacter (1)","control","pre-weaning","5.74 ***",21.3860931730747
+"44","dev_stage","control_v_pre-weaning","MAG029","Bacillota","g__Phascolarctobacterium_A (1)","d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Acidaminococcales;f__Acidaminococcaceae;g__Phascolarctobacterium_A",3.44674953533161,0.0189024821203778,151141.246637225,"MAG029: p__Bacillota
+g__Phascolarctobacterium_A (1)","control","pre-weaning","3.45 *",22.963798929843
+"45","dev_stage","control_v_pre-weaning","MAG034","Cyanobacteriota","s__Zag111 sp004558955","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Zag111;s__Zag111 sp004558955",-7.2977171316528,0.00252135312104275,172251.517678131,"MAG034: p__Cyanobacteriota
+s__Zag111 sp004558955","control","pre-weaning","-7.3 **",22.8729914595955
+"46","dev_stage","control_v_pre-weaning","MAG037","Bacteroidota","g__RF16 (1)","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16",-5.22196136379242,0.00376720154590331,685595.522312172,"MAG037: p__Bacteroidota
+g__RF16 (1)","control","pre-weaning","-5.22 **",24.1586933084167
+"47","dev_stage","control_v_pre-weaning","MAG040","Bacteroidota","s__Alloprevotella sp004555055","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp004555055",-5.13264318719533,0.00543891182989141,1609940.58143133,"MAG040: p__Bacteroidota
+s__Alloprevotella sp004555055","control","pre-weaning","-5.13 **",26.007731072298
+"48","dev_stage","control_v_pre-weaning","MAG042","Bacillota","g__Enteromonas (2)","d__Bacteria;p__Bacillota;c__Bacilli;o__RFN20;f__CAG-826;g__Enteromonas",-5.00548114652325,0.0213895892131711,71644.5040195934,"MAG042: p__Bacillota
+g__Enteromonas (2)","control","pre-weaning","-5.01 *",21.7221632327503
+"49","dev_stage","control_v_pre-weaning","MAG043","Bacillota","s__Enterosoma sp022774485","d__Bacteria;p__Bacillota;c__Bacilli;o__RFN20;f__CAG-288;g__Enterosoma;s__Enterosoma sp022774485",-5.62518782774185,0.00072228216724703,109263.899438127,"MAG043: p__Bacillota
+s__Enterosoma sp022774485","control","pre-weaning","-5.63 ***",21.9357088132946
+"50","dev_stage","control_v_pre-weaning","MAG051","Bacteroidota","s__CAG-873 sp004552725","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp004552725",-5.52774590380787,0.012117076857619,226238.960400341,"MAG051: p__Bacteroidota
+s__CAG-873 sp004552725","control","pre-weaning","-5.53 *",22.858753431495
+"51","dev_stage","control_v_pre-weaning","MAG067","Bacillota","s__CAG-353 sp017829005","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__CAG-353;s__CAG-353 sp017829005",-5.66839141973254,0.000665622495795552,277937.941989773,"MAG067: p__Bacillota
+s__CAG-353 sp017829005","control","pre-weaning","-5.67 ***",23.1975246518561
+"52","dev_stage","control_v_pre-weaning","MAG070","Bacillota","f__UBA1381 (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__UBA1381;f__UBA1381",-4.4285075978969,0.0238229068032425,52195.563637157,"MAG070: p__Bacillota
+f__UBA1381 (1)","control","pre-weaning","-4.43 *",21.7176124251256
+"53","dev_stage","control_v_pre-weaning","MAG078","Spirochaetota","s__Ornithospirochaeta sp022771185","d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__Ornithospirochaeta;s__Ornithospirochaeta sp022771185",-7.06170717782689,3.06315924312951e-09,150835.872055455,"MAG078: p__Spirochaetota
+s__Ornithospirochaeta sp022771185","control","pre-weaning","-7.06 ***",21.6319807459398
+"54","dev_stage","control_v_pre-weaning","MAG091","Bacillota","s__UMGS1889 sp945877315","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UMGS1889;s__UMGS1889 sp945877315",-7.24455217682466,0.000274993024486181,25982.3789663822,"MAG091: p__Bacillota
+s__UMGS1889 sp945877315","control","pre-weaning","-7.24 ***",20.7948485505586
+"55","dev_stage","control_v_pre-weaning","MAG095","Bacteroidota","s__Cryptobacteroides sp004554455","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp004554455",-7.53494635305408,3.16817397824623e-06,578376.182970526,"MAG095: p__Bacteroidota
+s__Cryptobacteroides sp004554455","control","pre-weaning","-7.53 ***",24.3384138566231
+"56","dev_stage","control_v_pre-weaning","MAG108","Bacillota","s__CAG-194 sp000432915","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-194;s__CAG-194 sp000432915",-4.23792379058813,0.033094348943157,184799.006888483,"MAG108: p__Bacillota
+s__CAG-194 sp000432915","control","pre-weaning","-4.24 *",22.8038000346818
+"57","dev_stage","control_v_pre-weaning","MAG111","Bacillota","s__Faecalibacterium sp900539885","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium;s__Faecalibacterium sp900539885",-3.29473961501264,0.0480777543591938,42922.4026890805,"MAG111: p__Bacillota
+s__Faecalibacterium sp900539885","control","pre-weaning","-3.29 *",20.7517102238702
+"58","dev_stage","control_v_pre-weaning","MAG117","Bacillota","g__UBA7867 (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__UBA7867",-4.8908008590943,0.00612362257748037,6146.44474400773,"MAG117: p__Bacillota
+g__UBA7867 (1)","control","pre-weaning","-4.89 **",18.4102781654901
+"59","dev_stage","control_v_pre-weaning","MAG118","Spirochaetota","g__Ornithospirochaeta (1)","d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__Ornithospirochaeta",-5.39756370005515,2.95880286817319e-06,204611.379674002,"MAG118: p__Spirochaetota
+g__Ornithospirochaeta (1)","control","pre-weaning","-5.4 ***",21.9250353446686
+"60","dev_stage","control_v_pre-weaning","MAG136","Bacillota","s__Clostridium sp000435835","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium sp000435835",-7.01361576912507,7.29184041932286e-07,187016.642521574,"MAG136: p__Bacillota
+s__Clostridium sp000435835","control","pre-weaning","-7.01 ***",22.3421784096915
+"61","dev_stage","control_v_pre-weaning","MAG153","Bacillota","s__Wujia sp900553925","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Wujia;s__Wujia sp900553925",-4.59354440178068,0.0240896061972327,81789.6830921533,"MAG153: p__Bacillota
+s__Wujia sp900553925","control","pre-weaning","-4.59 *",22.3918225952566
+"62","dev_stage","control_v_pre-weaning","MAG165","Bacteroidota","s__SFTJ01 sp004557385","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__SFTJ01;s__SFTJ01 sp004557385",-3.90504963613146,0.0260319925501487,103292.417946069,"MAG165: p__Bacteroidota
+s__SFTJ01 sp004557385","control","pre-weaning","-3.91 *",22.3562172827582
+"63","dev_stage","control_v_pre-weaning","MAG166","Bacillota","g__Ruminiclostridium_E (3)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E",-6.58563322619661,0.000896873439079316,266708.008236098,"MAG166: p__Bacillota
+g__Ruminiclostridium_E (3)","control","pre-weaning","-6.59 ***",23.882806370324
+"64","dev_stage","control_v_pre-weaning","MAG167","Bacillota","g__Pararoseburia (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Pararoseburia",-4.52842793657249,0.00957604427575415,56074.5200419812,"MAG167: p__Bacillota
+g__Pararoseburia (2)","control","pre-weaning","-4.53 **",21.2257335001566
+"65","dev_stage","control_v_pre-weaning","MAG174","Bacillota","g__CAG-882 (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-882",-3.81756937420785,0.0265650650065007,44981.6515955685,"MAG174: p__Bacillota
+g__CAG-882 (2)","control","pre-weaning","-3.82 *",21.2911658337432
+"66","dev_stage","control_v_pre-weaning","MAG176","Spirochaetota","s__Treponema_D sp016293005","d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016293005",-8.68608210936683,1.96019138758539e-05,109307.176745283,"MAG176: p__Spirochaetota
+s__Treponema_D sp016293005","control","pre-weaning","-8.69 ***",22.5725332714106
+"67","dev_stage","control_v_pre-weaning","MAG179","Bacillota","g__UBA7867 (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__UBA7867",-9.72092423267196,1.16957337834236e-05,9040.13762300842,"MAG179: p__Bacillota
+g__UBA7867 (2)","control","pre-weaning","-9.72 ***",19.1681254837265
+"68","dev_stage","control_v_pre-weaning","MAG180","Bacteroidota","g__Phocaeicola (1)","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola",-5.42344581365142,0.000793779900133835,79574.1247295218,"MAG180: p__Bacteroidota
+g__Phocaeicola (1)","control","pre-weaning","-5.42 ***",21.7240412167934
+"69","dev_stage","control_v_pre-weaning","MAG191","Bacteroidota","s__Cryptobacteroides sp004555145","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp004555145",-3.65722721290631,0.0134519862140188,114041.037127383,"MAG191: p__Bacteroidota
+s__Cryptobacteroides sp004555145","control","pre-weaning","-3.66 *",21.698109685648
+"70","dev_stage","control_v_pre-weaning","MAG199","Bacteroidota","s__CAG-873 sp945829225","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp945829225",-4.37800720590281,0.016233172232651,21785.4890550746,"MAG199: p__Bacteroidota
+s__CAG-873 sp945829225","control","pre-weaning","-4.38 *",20.2612240481764
+"71","dev_stage","control_v_pre-weaning","MAG201","Bacillota","g__CAG-269 (3)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-269",-4.48816058062515,0.0302291343888072,22294.381939674,"MAG201: p__Bacillota
+g__CAG-269 (3)","control","pre-weaning","-4.49 *",20.4557896963737
+"72","dev_stage","control_v_pre-weaning","MAG214","Bacillota","s__UBA1394 sp002305725 (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UBA1394;s__UBA1394 sp002305725",4.08959771305574,0.017412669860262,31181.0328400586,"MAG214: p__Bacillota
+s__UBA1394 sp002305725 (2)","control","pre-weaning","4.09 *",20.8168471465897
+"73","dev_stage","control_v_pre-weaning","MAG227","Bacillota","s__Dorea_A sp022769185","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Dorea_A;s__Dorea_A sp022769185",3.50597809736553,0.0134872981472502,42334.0468450773,"MAG227: p__Bacillota
+s__Dorea_A sp022769185","control","pre-weaning","3.51 *",20.3729155394343
+"74","dev_stage","control_v_pre-weaning","MAG228","Bacillota","s__Eubacterium_F sp003491505","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_F;s__Eubacterium_F sp003491505",2.61759052926645,0.0305021455911218,33286.1385848359,"MAG228: p__Bacillota
+s__Eubacterium_F sp003491505","control","pre-weaning","2.62 *",20.5691503157835
+"75","dev_stage","control_v_pre-weaning","MAG235","Bacillota","g__Fusicatenibacter","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Fusicatenibacter",4.5289168614434,0.00252135312104275,32525.3206194922,"MAG235: p__Bacillota
+g__Fusicatenibacter","control","pre-weaning","4.53 **",20.8318879782727
+"76","dev_stage","control_v_pre-weaning","MAG236","Bacillota","g__Phascolarctobacterium_A (5)","d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Acidaminococcales;f__Acidaminococcaceae;g__Phascolarctobacterium_A",3.38789454101353,0.0288608664842683,39359.7184518311,"MAG236: p__Bacillota
+g__Phascolarctobacterium_A (5)","control","pre-weaning","3.39 *",21.0731600121269
+"77","dev_stage","control_v_pre-weaning","MAG245","Cyanobacteriota","g__Zag111 (3)","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Zag111",-4.59620524997112,0.0171007709672962,29326.3379894139,"MAG245: p__Cyanobacteriota
+g__Zag111 (3)","control","pre-weaning","-4.6 *",20.2883003376087
+"78","dev_stage","control_v_pre-weaning","MAG250","Bacillota","s__Limivicinus sp022782265","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Limivicinus;s__Limivicinus sp022782265",-3.77105118751854,0.049288373467176,66778.1991004198,"MAG250: p__Bacillota
+s__Limivicinus sp022782265","control","pre-weaning","-3.77 *",20.8138848751516
+"79","dev_stage","control_v_pre-weaning","MAG252","Bacillota","g__Ruminococcus","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus",3.72907890462175,0.0477870871557845,13958.1906812257,"MAG252: p__Bacillota
+g__Ruminococcus","control","pre-weaning","3.73 *",19.2654370880776
+"80","dev_stage","control_v_pre-weaning","MAG253","Bacillota","s__CAG-533 sp000434495","d__Bacteria;p__Bacillota;c__Bacilli;o__RF39;f__UBA660;g__CAG-533;s__CAG-533 sp000434495",-4.27016360117145,0.0126996157693401,36420.1477897693,"MAG253: p__Bacillota
+s__CAG-533 sp000434495","control","pre-weaning","-4.27 *",19.6292091666676
+"81","dev_stage","control_v_pre-weaning","MAG254","Bacillota","s__COE1 sp022788085","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__COE1;s__COE1 sp022788085",-5.17251310561301,0.00884740621728397,300220.586343938,"MAG254: p__Bacillota
+s__COE1 sp022788085","control","pre-weaning","-5.17 **",23.8611618024201
+"82","dev_stage","control_v_pre-weaning","MAG258","Bacillota","f__CAG-272","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__CAG-272",-6.36089181106106,0.0026966470178538,20675.2573738812,"MAG258: p__Bacillota
+f__CAG-272","control","pre-weaning","-6.36 **",20.1539816460992
+"83","dev_stage","control_v_pre-weaning","MAG259","Bacillota","g__CAKVOD01","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__CAKVOD01",-7.61608739929802,0.000212785852549459,12699.9244667636,"MAG259: p__Bacillota
+g__CAKVOD01","control","pre-weaning","-7.62 ***",18.722456190583
+"84","dev_stage","control_v_pre-weaning","MAG264","Bacillota","g__Eubacterium_R (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R",-5.47258074696206,0.00515514165945868,36736.0038950076,"MAG264: p__Bacillota
+g__Eubacterium_R (2)","control","pre-weaning","-5.47 **",20.6293035069538
+"85","dev_stage","control_v_pre-weaning","MAG267","Bacillota","s__UBA3282 sp022781395","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__UBA3282;s__UBA3282 sp022781395",-5.0890795960099,0.00335740209208884,78774.690555157,"MAG267: p__Bacillota
+s__UBA3282 sp022781395","control","pre-weaning","-5.09 **",21.5999135940384
+"86","dev_stage","control_v_pre-weaning","MAG269","Bacteroidota","g__Mediterranea (1)","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Mediterranea",-3.91803173405161,0.0116612476747846,97618.7086218391,"MAG269: p__Bacteroidota
+g__Mediterranea (1)","control","pre-weaning","-3.92 *",21.2842396590959
+"87","dev_stage","control_v_pre-weaning","MAG272","Cyanobacteriota","g__Scatenecus","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Scatenecus",-5.08754365507585,0.0302291343888072,27207.4675092853,"MAG272: p__Cyanobacteriota
+g__Scatenecus","control","pre-weaning","-5.09 *",20.3569883706542
+"88","dev_stage","control_v_pre-weaning","MAG274","Bacteroidota","s__Alistipes sp945494785","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Rikenellaceae;g__Alistipes;s__Alistipes sp945494785",-7.22288606144998,0.000212785852549459,47930.8351517887,"MAG274: p__Bacteroidota
+s__Alistipes sp945494785","control","pre-weaning","-7.22 ***",21.3184094912155
+"89","dev_stage","control_v_pre-weaning","MAG282","Bacillota","s__Turicibacter bilis","d__Bacteria;p__Bacillota;c__Bacilli;o__Haloplasmatales;f__Turicibacteraceae;g__Turicibacter;s__Turicibacter bilis",-3.49517902385263,0.03831085034196,28100.9626600868,"MAG282: p__Bacillota
+s__Turicibacter bilis","control","pre-weaning","-3.5 *",19.2910819003225
+"90","dev_stage","control_v_pre-weaning","MAG286","Bacillota","s__SFJ001 sp004555865","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__SFJ001;s__SFJ001 sp004555865",-4.91223981122367,0.00884740621728397,33351.7729211473,"MAG286: p__Bacillota
+s__SFJ001 sp004555865","control","pre-weaning","-4.91 **",20.7481755857442
+"91","dev_stage","control_v_pre-weaning","MAG288","Bacillota","s__HGM10890 sp900769965","d__Bacteria;p__Bacillota;c__Bacilli;o__RFN20;f__CAG-288;g__HGM10890;s__HGM10890 sp900769965",-6.54410682729349,0.00139085715052412,19152.2844111165,"MAG288: p__Bacillota
+s__HGM10890 sp900769965","control","pre-weaning","-6.54 **",19.2408723283019
+"92","dev_stage","control_v_pre-weaning","MAG291","Bacillota","s__CAG-103 sp004556965","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-103;s__CAG-103 sp004556965",-4.43882231178117,0.0238299672100155,20731.224644478,"MAG291: p__Bacillota
+s__CAG-103 sp004556965","control","pre-weaning","-4.44 *",19.4341653569714
+"93","dev_stage","control_v_pre-weaning","MAG294","Bacillota","s__Scatovivens sp017625465","d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__Scatovivens;s__Scatovivens sp017625465",-6.34631008244146,0.00543891182989141,11795.8214723382,"MAG294: p__Bacillota
+s__Scatovivens sp017625465","control","pre-weaning","-6.35 **",19.2339223836457
+"94","dev_stage","control_v_pre-weaning","MAG295","Bacillota","g__CAG-273 (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-273",-5.01235350188555,0.00605525168855111,24723.5350648276,"MAG295: p__Bacillota
+g__CAG-273 (2)","control","pre-weaning","-5.01 **",19.8284560961509
+"95","dev_stage","control_v_pre-weaning","MAG296","Bacillota","g__Roseburia (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Roseburia",-4.35338413142972,0.0135673687507617,41960.9237975821,"MAG296: p__Bacillota
+g__Roseburia (2)","control","pre-weaning","-4.35 *",20.4113612610372
+"96","dev_stage","control_v_pre-weaning","MAG297","Bacillota","s__CAG-475 sp900769205","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-917;g__CAG-475;s__CAG-475 sp900769205",-7.54754375584824,3.16817397824623e-06,41061.4106644238,"MAG297: p__Bacillota
+s__CAG-475 sp900769205","control","pre-weaning","-7.55 ***",21.2096066692521
+"97","dev_stage","control_v_pre-weaning","MAG299","Spirochaetota","g__Ornithospirochaeta (2)","d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__Ornithospirochaeta",-3.3297708654066,0.0302291343888072,39063.552674944,"MAG299: p__Spirochaetota
+g__Ornithospirochaeta (2)","control","pre-weaning","-3.33 *",19.794008797608
+"98","dev_stage","control_v_pre-weaning","MAG300","Bacillota","s__Aphodocola sp945788325","d__Bacteria;p__Bacillota;c__Bacilli;o__RF39;f__UBA660;g__Aphodocola;s__Aphodocola sp945788325",-5.04356644834387,0.00935513001492482,36835.3342280491,"MAG300: p__Bacillota
+s__Aphodocola sp945788325","control","pre-weaning","-5.04 **",21.1012349578408
+"99","dev_stage","control_v_pre-weaning","MAG302","Bacillota","g__UBA9845","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__UBA9845",-3.3349430634161,0.0178360648117465,37736.6909207423,"MAG302: p__Bacillota
+g__UBA9845","control","pre-weaning","-3.33 *",19.7290645321663
+"100","dev_stage","control_v_pre-weaning","MAG307","Bacillota","g__Avilachnospira","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Avilachnospira",-9.70583115419211,5.08615062352085e-22,26816.8488728394,"MAG307: p__Bacillota
+g__Avilachnospira","control","pre-weaning","-9.71 ***",18.8253053598122
+"101","dev_stage","control_v_pre-weaning","MAG309","Bacillota","g__RUG666","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__RUG666",-7.76307786349166,0.00072228216724703,8735.2404280864,"MAG309: p__Bacillota
+g__RUG666","control","pre-weaning","-7.76 ***",18.8141316718251
+"102","dev_stage","control_v_pre-weaning","MAG311","Spirochaetota","s__Bullifex sp022788185","d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__Bullifex;s__Bullifex sp022788185",-5.21182851211748,0.00281476434339375,22940.6519603245,"MAG311: p__Spirochaetota
+s__Bullifex sp022788185","control","pre-weaning","-5.21 **",20.3295413808744
+"103","dev_stage","control_v_pre-weaning","MAG313","Bacillota","g__UMGS1124","d__Bacteria;p__Bacillota;c__Bacilli;o__RF39;f__UBA660;g__UMGS1124",-4.68427099476436,0.0248957225087557,10168.5195284528,"MAG313: p__Bacillota
+g__UMGS1124","control","pre-weaning","-4.68 *",18.4428470585463
+"104","dev_stage","control_v_pre-weaning","MAG318","Bacillota","s__Acetatifactor sp016303085","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor sp016303085",-6.76611541000335,0.000135171078417367,34239.997052219,"MAG318: p__Bacillota
+s__Acetatifactor sp016303085","control","pre-weaning","-6.77 ***",20.6522994119956
+"105","dev_stage","control_v_pre-weaning","MAG335","Bacillota","g__Faecisoma","d__Bacteria;p__Bacillota;c__Bacilli;o__RF39;f__UBA660;g__Faecisoma",-4.30545357186589,0.0363507650614311,20025.0759586046,"MAG335: p__Bacillota
+g__Faecisoma","control","pre-weaning","-4.31 *",19.8542059629853
+"106","dev_stage","control_v_pre-weaning","MAG340","Cyanobacteriota","g__Scatousia","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Scatousia",-5.8242050989348,0.00252135312104275,69346.090875441,"MAG340: p__Cyanobacteriota
+g__Scatousia","control","pre-weaning","-5.82 **",21.8922012535894
+"107","dev_stage","control_v_pre-weaning","MAG346","Bacteroidota","s__Egerieousia sp004561775","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Egerieousia;s__Egerieousia sp004561775",-3.41310990644739,0.0463064456972885,59558.8507148721,"MAG346: p__Bacteroidota
+s__Egerieousia sp004561775","control","pre-weaning","-3.41 *",21.1404329753136
+"108","dev_stage","control_v_pre-weaning","MAG352","Pseudomonadota","s__Basfia_A porcinus","d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Pasteurellaceae;g__Basfia_A;s__Basfia_A porcinus",6.45550090720621,0.000778148532735902,6854.90192002927,"MAG352: p__Pseudomonadota
+s__Basfia_A porcinus","control","pre-weaning","6.46 ***",18.744477787536
+"109","dev_stage","control_v_pre-weaning","MAG353","Bacillota","s__PeH17 sp900542285","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__PeH17;s__PeH17 sp900542285",-5.09105012918246,0.000793779900133835,34296.0765795176,"MAG353: p__Bacillota
+s__PeH17 sp900542285","control","pre-weaning","-5.09 ***",19.5381142387596
+"110","dev_stage","control_v_pre-weaning","MAG364","Bacillota","g__CAG-269 (9)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-269",3.43104119817858,0.0293330636208115,15266.5928303342,"MAG364: p__Bacillota
+g__CAG-269 (9)","control","pre-weaning","3.43 *",19.8350975642511
+"111","dev_stage","control_v_pre-weaning","MAG368","Bacteroidota","g__CALZFJ01 (4)","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CALZFJ01",-3.72482111589061,0.0168637607191159,103359.827904728,"MAG368: p__Bacteroidota
+g__CALZFJ01 (4)","control","pre-weaning","-3.72 *",22.1017392253998
+"112","dev_stage","control_v_pre-weaning","MAG370","Bacteroidota","g__Cryptobacteroides","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides",-2.53516123441674,0.0240896061972327,70177.849439019,"MAG370: p__Bacteroidota
+g__Cryptobacteroides","control","pre-weaning","-2.54 *",20.0302363527771
+"113","dev_stage","control_v_post-weaning","MAG032","Cyanobacteriota","g__Avigastranaerophilus","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Avigastranaerophilus",4.11875257440817,0.00171687633305625,74934.4651172717,"MAG032: p__Cyanobacteriota
+g__Avigastranaerophilus","control","post-weaning","4.12 **",19.4823892278727
+"114","dev_stage","control_v_post-weaning","MAG057","Campylobacterota","s__Helicobacter_F sp002287135","d__Bacteria;p__Campylobacterota;c__Campylobacteria;o__Campylobacterales;f__Helicobacteraceae;g__Helicobacter_F;s__Helicobacter_F sp002287135",5.96089991580534,0.00115241812858456,6642.13688152388,"MAG057: p__Campylobacterota
+s__Helicobacter_F sp002287135","control","post-weaning","5.96 **",17.3390511689259
+"115","dev_stage","control_v_post-weaning","MAG068","Bacillota","g__CAG-115","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__CAG-115",-4.30557899500423,0.0072124484264476,156986.853327736,"MAG068: p__Bacillota
+g__CAG-115","control","post-weaning","-4.31 **",21.0849824262241
+"116","dev_stage","control_v_post-weaning","MAG070","Bacillota","f__UBA1381 (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__UBA1381;f__UBA1381",-4.4164186103449,0.0121491521225958,52195.563637157,"MAG070: p__Bacillota
+f__UBA1381 (1)","control","post-weaning","-4.42 *",19.8291243881581
+"117","dev_stage","control_v_post-weaning","MAG091","Bacillota","s__UMGS1889 sp945877315","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UMGS1889;s__UMGS1889 sp945877315",-5.26612263250252,0.00388839157450575,25982.3789663822,"MAG091: p__Bacillota
+s__UMGS1889 sp945877315","control","post-weaning","-5.27 **",18.98660085051
+"118","dev_stage","control_v_post-weaning","MAG111","Bacillota","s__Faecalibacterium sp900539885","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Faecalibacterium;s__Faecalibacterium sp900539885",-3.51844304656892,0.0174509750695589,42922.4026890805,"MAG111: p__Bacillota
+s__Faecalibacterium sp900539885","control","post-weaning","-3.52 *",18.9472136826641
+"119","dev_stage","control_v_post-weaning","MAG117","Bacillota","g__UBA7867 (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__UBA7867",-3.91291821355754,0.0174509750695589,6146.44474400773,"MAG117: p__Bacillota
+g__UBA7867 (1)","control","post-weaning","-3.91 *",16.8093844119692
+"120","dev_stage","control_v_post-weaning","MAG134","Bacillota","g__UMGS363 (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__UMGS363",3.19048942086376,0.0174234375884323,108290.352798154,"MAG134: p__Bacillota
+g__UMGS363 (2)","control","post-weaning","3.19 *",20.3638998705592
+"121","dev_stage","control_v_post-weaning","MAG136","Bacillota","s__Clostridium sp000435835","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium sp000435835",-3.17075403416615,0.0213102232663103,187016.642521574,"MAG136: p__Bacillota
+s__Clostridium sp000435835","control","post-weaning","-3.17 *",20.3993802871096
+"122","dev_stage","control_v_post-weaning","MAG148","Bacillota","s__CAG-95 sp017622575","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-95;s__CAG-95 sp017622575",-3.58981079938403,0.0125988070258093,180782.655181981,"MAG148: p__Bacillota
+s__CAG-95 sp017622575","control","post-weaning","-3.59 *",20.2231203367431
+"123","dev_stage","control_v_post-weaning","MAG166","Bacillota","g__Ruminiclostridium_E (3)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E",-5.08805464381139,0.00532028950652721,266708.008236098,"MAG166: p__Bacillota
+g__Ruminiclostridium_E (3)","control","post-weaning","-5.09 **",21.8060405989914
+"124","dev_stage","control_v_post-weaning","MAG167","Bacillota","g__Pararoseburia (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Pararoseburia",-3.33002196344637,0.0476498693051364,56074.5200419812,"MAG167: p__Bacillota
+g__Pararoseburia (2)","control","post-weaning","-3.33 *",19.3800175436213
+"125","dev_stage","control_v_post-weaning","MAG170","Bacillota","s__Acetatifactor sp022769665","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor sp022769665",-3.20647121213927,0.034404915980102,232667.229173216,"MAG170: p__Bacillota
+s__Acetatifactor sp022769665","control","post-weaning","-3.21 *",20.913520019841
+"126","dev_stage","control_v_post-weaning","MAG174","Bacillota","g__CAG-882 (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__CAG-882",-3.94087268036019,0.0112488942727815,44981.6515955685,"MAG174: p__Bacillota
+g__CAG-882 (2)","control","post-weaning","-3.94 *",19.4397601090699
+"127","dev_stage","control_v_post-weaning","MAG176","Spirochaetota","s__Treponema_D sp016293005","d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Treponematales;f__Treponemataceae;g__Treponema_D;s__Treponema_D sp016293005",-6.70483038878711,0.000456722428096484,109307.176745283,"MAG176: p__Spirochaetota
+s__Treponema_D sp016293005","control","post-weaning","-6.7 ***",20.609704291288
+"128","dev_stage","control_v_post-weaning","MAG178","Bacillota","g__Dysosmobacter (4)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Dysosmobacter",-3.21142526524099,0.0198800180349,138592.360201795,"MAG178: p__Bacillota
+g__Dysosmobacter (4)","control","post-weaning","-3.21 *",20.0526782184391
+"129","dev_stage","control_v_post-weaning","MAG180","Bacteroidota","g__Phocaeicola (1)","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola",-4.26316492373198,0.00388839157450575,79574.1247295218,"MAG180: p__Bacteroidota
+g__Phocaeicola (1)","control","post-weaning","-4.26 **",19.8349941544636
+"130","dev_stage","control_v_post-weaning","MAG186","Cyanobacteriota","s__Gastranaerophilus phascolarctosicola","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Gastranaerophilus;s__Gastranaerophilus phascolarctosicola",-5.75920209069612,0.00129408600497619,113971.794110199,"MAG186: p__Cyanobacteriota
+s__Gastranaerophilus phascolarctosicola","control","post-weaning","-5.76 **",20.4706962102581
+"131","dev_stage","control_v_post-weaning","MAG191","Bacteroidota","s__Cryptobacteroides sp004555145","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp004555145",-2.78915355975147,0.0479985222861038,114041.037127383,"MAG191: p__Bacteroidota
+s__Cryptobacteroides sp004555145","control","post-weaning","-2.79 *",19.8113175390699
+"132","dev_stage","control_v_post-weaning","MAG192","Bacillota","s__Anaerovibrio sp900548165","d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Anaerovibrio;s__Anaerovibrio sp900548165",-4.3021032142584,0.0198800180349,433153.163287585,"MAG192: p__Bacillota
+s__Anaerovibrio sp900548165","control","post-weaning","-4.3 *",21.9287910863334
+"133","dev_stage","control_v_post-weaning","MAG199","Bacteroidota","s__CAG-873 sp945829225","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp945829225",-4.29442767930269,0.00863412629640401,21785.4890550746,"MAG199: p__Bacteroidota
+s__CAG-873 sp945829225","control","post-weaning","-4.29 **",18.4993784787698
+"134","dev_stage","control_v_post-weaning","MAG227","Bacillota","s__Dorea_A sp022769185","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Dorea_A;s__Dorea_A sp022769185",3.15226712994308,0.015046531680432,42334.0468450773,"MAG227: p__Bacillota
+s__Dorea_A sp022769185","control","post-weaning","3.15 *",18.60135766644
+"135","dev_stage","control_v_post-weaning","MAG233","Patescibacteria","s__UBA2834 sp004561445","d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Nanosyncoccaceae;g__UBA2834;s__UBA2834 sp004561445",-12.3039134235413,5.72710906223739e-05,55933.172193047,"MAG233: p__Patescibacteria
+s__UBA2834 sp004561445","control","post-weaning","-12.3 ***",19.0221733651526
+"136","dev_stage","control_v_post-weaning","MAG248","Bacillota","g__Agathobacter (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter",5.09404522203316,0.000456722428096484,108830.530673569,"MAG248: p__Bacillota
+g__Agathobacter (2)","control","post-weaning","5.09 ***",20.9385668727981
+"137","dev_stage","control_v_post-weaning","MAG252","Bacillota","g__Ruminococcus","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminococcus",5.58847713154433,0.000506721852290419,13958.1906812257,"MAG252: p__Bacillota
+g__Ruminococcus","control","post-weaning","5.59 ***",17.5901816891143
+"138","dev_stage","control_v_post-weaning","MAG264","Bacillota","g__Eubacterium_R (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Acutalibacteraceae;g__Eubacterium_R",-5.74441523716399,0.000655692937476807,36736.0038950076,"MAG264: p__Bacillota
+g__Eubacterium_R (2)","control","post-weaning","-5.74 ***",18.8354510280882
+"139","dev_stage","control_v_post-weaning","MAG275","Bacillota","s__Lachnospira sp017626275","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Lachnospira;s__Lachnospira sp017626275",-4.08332870026283,0.00868691094720229,52835.8845749982,"MAG275: p__Bacillota
+s__Lachnospira sp017626275","control","post-weaning","-4.08 **",19.4593909499562
+"140","dev_stage","control_v_post-weaning","MAG278","Bacteroidota","s__Phocaeicola vulgatus","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola;s__Phocaeicola vulgatus",-6.94798780466285,0.000506721852290419,219232.382132483,"MAG278: p__Bacteroidota
+s__Phocaeicola vulgatus","control","post-weaning","-6.95 ***",20.9543977297209
+"141","dev_stage","control_v_post-weaning","MAG279","Bacillota","s__UBA10281 sp021635425","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__Borkfalkiaceae;g__UBA10281;s__UBA10281 sp021635425",-3.62521902335278,0.0272299179891685,25896.1602772318,"MAG279: p__Bacillota
+s__UBA10281 sp021635425","control","post-weaning","-3.63 *",18.4019529098139
+"142","dev_stage","control_v_post-weaning","MAG286","Bacillota","s__SFJ001 sp004555865","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__SFJ001;s__SFJ001 sp004555865",-4.06597761093233,0.0174509750695589,33351.7729211473,"MAG286: p__Bacillota
+s__SFJ001 sp004555865","control","post-weaning","-4.07 *",18.9439864043751
+"143","dev_stage","control_v_post-weaning","MAG294","Bacillota","s__Scatovivens sp017625465","d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__Scatovivens;s__Scatovivens sp017625465",-6.79438914576262,0.000614458561138341,11795.8214723382,"MAG294: p__Bacillota
+s__Scatovivens sp017625465","control","post-weaning","-6.79 ***",17.5614073937635
+"144","dev_stage","control_v_post-weaning","MAG297","Bacillota","s__CAG-475 sp900769205","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-917;g__CAG-475;s__CAG-475 sp900769205",-6.50960850443208,1.0580090784427e-05,41061.4106644238,"MAG297: p__Bacillota
+s__CAG-475 sp900769205","control","post-weaning","-6.51 ***",19.3652930458388
+"145","dev_stage","control_v_post-weaning","MAG300","Bacillota","s__Aphodocola sp945788325","d__Bacteria;p__Bacillota;c__Bacilli;o__RF39;f__UBA660;g__Aphodocola;s__Aphodocola sp945788325",-4.27531634027161,0.0165008796399196,36835.3342280491,"MAG300: p__Bacillota
+s__Aphodocola sp945788325","control","post-weaning","-4.28 *",19.2663449615068
+"146","dev_stage","control_v_post-weaning","MAG306","Bacillota","g__RGIG446","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Peptostreptococcales;f__Anaerovoracaceae;g__RGIG446",-4.70592455240626,0.000511398649000475,21073.3727017339,"MAG306: p__Bacillota
+g__RGIG446","control","post-weaning","-4.71 ***",17.1042007170663
+"147","dev_stage","control_v_post-weaning","MAG309","Bacillota","g__RUG666","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__RUG666",-7.06387255657395,0.000511398649000475,8735.2404280864,"MAG309: p__Bacillota
+g__RUG666","control","post-weaning","-7.06 ***",17.1781202221012
+"148","dev_stage","control_v_post-weaning","MAG310","Bacillota","s__CAG-273 sp902406115","d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-273;s__CAG-273 sp902406115",-7.41768714383364,0.000227362417854634,63665.5548318859,"MAG310: p__Bacillota
+s__CAG-273 sp902406115","control","post-weaning","-7.42 ***",19.644323508704
+"149","dev_stage","control_v_post-weaning","MAG318","Bacillota","s__Acetatifactor sp016303085","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Acetatifactor;s__Acetatifactor sp016303085",-7.18112980975806,6.64414335352996e-06,34239.997052219,"MAG318: p__Bacillota
+s__Acetatifactor sp016303085","control","post-weaning","-7.18 ***",18.8564472892134
+"150","dev_stage","control_v_post-weaning","MAG340","Cyanobacteriota","g__Scatousia","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Scatousia",-5.70755841245937,0.000655692937476807,69346.090875441,"MAG340: p__Cyanobacteriota
+g__Scatousia","control","post-weaning","-5.71 ***",19.9885315793642
+"151","dev_stage","control_v_post-weaning","MAG352","Pseudomonadota","s__Basfia_A porcinus","d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Enterobacterales_A;f__Pasteurellaceae;g__Basfia_A;s__Basfia_A porcinus",3.97990939578608,0.0300932483658023,6854.90192002927,"MAG352: p__Pseudomonadota
+s__Basfia_A porcinus","control","post-weaning","3.98 *",17.1145231973154
+"152","dev_stage","control_v_post-weaning","MAG363","Bacteroidota","s__Bacteroides ovatus","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides ovatus",-5.29220005450297,0.00388839157450575,102645.224180762,"MAG363: p__Bacteroidota
+s__Bacteroides ovatus","control","post-weaning","-5.29 **",19.9746391200334
+"153","dev_stage","post-weaning_v_pre-weaning","MAG004","Bacteroidota","s__Alloprevotella sp004552865","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp004552865",4.59393729859091,0.00987173933362363,180851.361708508,"MAG004: p__Bacteroidota
+s__Alloprevotella sp004552865","post-weaning","pre-weaning","4.59 **",21.5704638821808
+"154","dev_stage","post-weaning_v_pre-weaning","MAG009","Bacillota","g__Enteromonas (1)","d__Bacteria;p__Bacillota;c__Bacilli;o__RFN20;f__CAG-826;g__Enteromonas",4.03747036869232,0.00987173933362363,152510.114134558,"MAG009: p__Bacillota
+g__Enteromonas (1)","post-weaning","pre-weaning","4.04 **",20.9175255168823
+"155","dev_stage","post-weaning_v_pre-weaning","MAG012","Bacillota","g__Ruminiclostridium_E (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Ruminococcaceae;g__Ruminiclostridium_E",6.45439812551644,0.000499109330628401,175391.244388489,"MAG012: p__Bacillota
+g__Ruminiclostridium_E (1)","post-weaning","pre-weaning","6.45 ***",21.7130998273429
+"156","dev_stage","post-weaning_v_pre-weaning","MAG019","Pseudomonadota","g__Duodenibacillus","d__Bacteria;p__Pseudomonadota;c__Gammaproteobacteria;o__Burkholderiales;f__Burkholderiaceae_A;g__Duodenibacillus",2.85476883101955,0.0466105514889187,77112.3893968048,"MAG019: p__Pseudomonadota
+g__Duodenibacillus","post-weaning","pre-weaning","2.85 *",19.2678127581153
+"157","dev_stage","post-weaning_v_pre-weaning","MAG023","Bacillota","s__Vescimonas sp003487665","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__Vescimonas;s__Vescimonas sp003487665",3.52658295503854,0.0341487357961577,36526.6827332355,"MAG023: p__Bacillota
+s__Vescimonas sp003487665","post-weaning","pre-weaning","3.53 *",18.894380931228
+"158","dev_stage","post-weaning_v_pre-weaning","MAG024","Bacillota","g__Butyribacter (1)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Butyribacter",4.12780631853055,0.0114261001618582,46299.6969679049,"MAG024: p__Bacillota
+g__Butyribacter (1)","post-weaning","pre-weaning","4.13 *",19.5264328971552
+"159","dev_stage","post-weaning_v_pre-weaning","MAG034","Cyanobacteriota","s__Zag111 sp004558955","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Zag111;s__Zag111 sp004558955",-8.54563656145412,0.00242973347803456,172251.517678131,"MAG034: p__Cyanobacteriota
+s__Zag111 sp004558955","post-weaning","pre-weaning","-8.55 **",20.8840356805002
+"160","dev_stage","post-weaning_v_pre-weaning","MAG035","Bacteroidota","s__Phocaeicola plebeius_C","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola;s__Phocaeicola plebeius_C",-4.52167714312613,0.0136377741693239,533854.565862694,"MAG035: p__Bacteroidota
+s__Phocaeicola plebeius_C","post-weaning","pre-weaning","-4.52 *",21.7737123352201
+"161","dev_stage","post-weaning_v_pre-weaning","MAG037","Bacteroidota","g__RF16 (1)","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__RF16",-6.58909458051366,0.00168064366865246,685595.522312172,"MAG037: p__Bacteroidota
+g__RF16 (1)","post-weaning","pre-weaning","-6.59 **",22.0579373685544
+"162","dev_stage","post-weaning_v_pre-weaning","MAG040","Bacteroidota","s__Alloprevotella sp004555055","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Alloprevotella;s__Alloprevotella sp004555055",-5.9753141405788,0.00589571594362978,1609940.58143133,"MAG040: p__Bacteroidota
+s__Alloprevotella sp004555055","post-weaning","pre-weaning","-5.98 **",23.7461892399243
+"163","dev_stage","post-weaning_v_pre-weaning","MAG042","Bacillota","g__Enteromonas (2)","d__Bacteria;p__Bacillota;c__Bacilli;o__RFN20;f__CAG-826;g__Enteromonas",-6.93969474732645,0.00571246342358669,71644.5040195934,"MAG042: p__Bacillota
+g__Enteromonas (2)","post-weaning","pre-weaning","-6.94 **",19.8332794733807
+"164","dev_stage","post-weaning_v_pre-weaning","MAG043","Bacillota","s__Enterosoma sp022774485","d__Bacteria;p__Bacillota;c__Bacilli;o__RFN20;f__CAG-288;g__Enterosoma;s__Enterosoma sp022774485",-5.65056828429431,0.00414094462140527,109263.899438127,"MAG043: p__Bacillota
+s__Enterosoma sp022774485","post-weaning","pre-weaning","-5.65 **",20.0282558730081
+"165","dev_stage","post-weaning_v_pre-weaning","MAG049","Bacteroidota","s__Aphodosoma sp016292775","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Paludibacteraceae;g__Aphodosoma;s__Aphodosoma sp016292775",-3.55801044389369,0.046221990257133,74748.2056329915,"MAG049: p__Bacteroidota
+s__Aphodosoma sp016292775","post-weaning","pre-weaning","-3.56 *",19.9217756368599
+"166","dev_stage","post-weaning_v_pre-weaning","MAG051","Bacteroidota","s__CAG-873 sp004552725","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Muribaculaceae;g__CAG-873;s__CAG-873 sp004552725",-6.56658930318781,0.0103981367067657,226238.960400341,"MAG051: p__Bacteroidota
+s__CAG-873 sp004552725","post-weaning","pre-weaning","-6.57 *",20.8710357417998
+"167","dev_stage","post-weaning_v_pre-weaning","MAG078","Spirochaetota","s__Ornithospirochaeta sp022771185","d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__Ornithospirochaeta;s__Ornithospirochaeta sp022771185",-5.97506389848065,2.82659168566497e-05,150835.872055455,"MAG078: p__Spirochaetota
+s__Ornithospirochaeta sp022771185","post-weaning","pre-weaning","-5.98 ***",19.750938941945
+"168","dev_stage","post-weaning_v_pre-weaning","MAG095","Bacteroidota","s__Cryptobacteroides sp004554455","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__UBA932;g__Cryptobacteroides;s__Cryptobacteroides sp004554455",-8.20436603008587,1.3119654544601e-05,578376.182970526,"MAG095: p__Bacteroidota
+s__Cryptobacteroides sp004554455","post-weaning","pre-weaning","-8.2 ***",22.2220300430037
+"169","dev_stage","post-weaning_v_pre-weaning","MAG118","Spirochaetota","g__Ornithospirochaeta (1)","d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__Ornithospirochaeta",-6.38366580516321,9.07614799277189e-07,204611.379674002,"MAG118: p__Spirochaetota
+g__Ornithospirochaeta (1)","post-weaning","pre-weaning","-6.38 ***",20.0185105320887
+"170","dev_stage","post-weaning_v_pre-weaning","MAG136","Bacillota","s__Clostridium sp000435835","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Clostridiales;f__Clostridiaceae;g__Clostridium;s__Clostridium sp000435835",-3.84286173495892,0.0386861289099326,187016.642521574,"MAG136: p__Bacillota
+s__Clostridium sp000435835","post-weaning","pre-weaning","-3.84 *",20.3993802871096
+"171","dev_stage","post-weaning_v_pre-weaning","MAG145","Bacillota","g__Bulleidia (2)","d__Bacteria;p__Bacillota;c__Bacilli;o__Erysipelotrichales;f__Erysipelotrichaceae;g__Bulleidia",4.49536819943114,0.0491026604176395,86314.565457094,"MAG145: p__Bacillota
+g__Bulleidia (2)","post-weaning","pre-weaning","4.5 *",19.6237056981007
+"172","dev_stage","post-weaning_v_pre-weaning","MAG179","Bacillota","g__UBA7867 (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__UBA7867",-7.84518727247515,0.00384393894198436,9040.13762300842,"MAG179: p__Bacillota
+g__UBA7867 (2)","post-weaning","pre-weaning","-7.85 **",17.5013319634024
+"173","dev_stage","post-weaning_v_pre-weaning","MAG192","Bacillota","s__Anaerovibrio sp900548165","d__Bacteria;p__Bacillota_C;c__Negativicutes;o__Selenomonadales;f__Selenomonadaceae;g__Anaerovibrio;s__Anaerovibrio sp900548165",6.40083269558132,0.00651669150837739,433153.163287585,"MAG192: p__Bacillota
+s__Anaerovibrio sp900548165","post-weaning","pre-weaning","6.4 **",21.9287910863334
+"174","dev_stage","post-weaning_v_pre-weaning","MAG211","Bacillota","s__Lactobacillus johnsonii","d__Bacteria;p__Bacillota;c__Bacilli;o__Lactobacillales;f__Lactobacillaceae;g__Lactobacillus;s__Lactobacillus johnsonii",5.85366702993762,0.00987173933362363,85874.5270894617,"MAG211: p__Bacillota
+s__Lactobacillus johnsonii","post-weaning","pre-weaning","5.85 **",20.2328424089025
+"175","dev_stage","post-weaning_v_pre-weaning","MAG215","Bacteroidota","s__Prevotella pectinovora","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Prevotella;s__Prevotella pectinovora",3.64824304266048,0.0293377567112817,549735.079570772,"MAG215: p__Bacteroidota
+s__Prevotella pectinovora","post-weaning","pre-weaning","3.65 *",22.2811729413567
+"176","dev_stage","post-weaning_v_pre-weaning","MAG228","Bacillota","s__Eubacterium_F sp003491505","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Eubacterium_F;s__Eubacterium_F sp003491505",4.11243456048511,0.00296707262357554,33286.1385848359,"MAG228: p__Bacillota
+s__Eubacterium_F sp003491505","post-weaning","pre-weaning","4.11 **",18.7805285491936
+"177","dev_stage","post-weaning_v_pre-weaning","MAG233","Patescibacteria","s__UBA2834 sp004561445","d__Bacteria;p__Patescibacteria;c__Saccharimonadia;o__Saccharimonadales;f__Nanosyncoccaceae;g__UBA2834;s__UBA2834 sp004561445",15.3792403993672,5.52849976576384e-05,55933.172193047,"MAG233: p__Patescibacteria
+s__UBA2834 sp004561445","post-weaning","pre-weaning","15.38 ***",19.0221733651526
+"178","dev_stage","post-weaning_v_pre-weaning","MAG245","Cyanobacteriota","g__Zag111 (3)","d__Bacteria;p__Cyanobacteriota;c__Vampirovibrionia;o__Gastranaerophilales;f__Gastranaerophilaceae;g__Zag111",-6.7268565251303,0.00224272482030455,29326.3379894139,"MAG245: p__Cyanobacteriota
+g__Zag111 (3)","post-weaning","pre-weaning","-6.73 **",18.5241003082514
+"179","dev_stage","post-weaning_v_pre-weaning","MAG248","Bacillota","g__Agathobacter (2)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Agathobacter",-4.86017701596152,0.0114261001618582,108830.530673569,"MAG248: p__Bacillota
+g__Agathobacter (2)","post-weaning","pre-weaning","-4.86 *",20.9385668727981
+"180","dev_stage","post-weaning_v_pre-weaning","MAG253","Bacillota","s__CAG-533 sp000434495","d__Bacteria;p__Bacillota;c__Bacilli;o__RF39;f__UBA660;g__CAG-533;s__CAG-533 sp000434495",-5.14661172452185,0.00987173933362363,36420.1477897693,"MAG253: p__Bacillota
+s__CAG-533 sp000434495","post-weaning","pre-weaning","-5.15 **",17.9223214130444
+"181","dev_stage","post-weaning_v_pre-weaning","MAG258","Bacillota","f__CAG-272","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__CAG-272",-8.30038675005477,0.000598692252034903,20675.2573738812,"MAG258: p__Bacillota
+f__CAG-272","post-weaning","pre-weaning","-8.3 ***",18.4014615029601
+"182","dev_stage","post-weaning_v_pre-weaning","MAG259","Bacillota","g__CAKVOD01","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__UBA1242;g__CAKVOD01",-9.55404069332633,3.70432295282472e-05,12699.9244667636,"MAG259: p__Bacillota
+g__CAKVOD01","post-weaning","pre-weaning","-9.55 ***",17.0944165218367
+"183","dev_stage","post-weaning_v_pre-weaning","MAG278","Bacteroidota","s__Phocaeicola vulgatus","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Phocaeicola;s__Phocaeicola vulgatus",8.24291497356286,0.00168064366865246,219232.382132483,"MAG278: p__Bacteroidota
+s__Phocaeicola vulgatus","post-weaning","pre-weaning","8.24 **",20.9543977297209
+"184","dev_stage","post-weaning_v_pre-weaning","MAG288","Bacillota","s__HGM10890 sp900769965","d__Bacteria;p__Bacillota;c__Bacilli;o__RFN20;f__CAG-288;g__HGM10890;s__HGM10890 sp900769965",-5.3008848053779,0.0401480130663809,19152.2844111165,"MAG288: p__Bacillota
+s__HGM10890 sp900769965","post-weaning","pre-weaning","-5.3 *",17.567752995406
+"185","dev_stage","post-weaning_v_pre-weaning","MAG291","Bacillota","s__CAG-103 sp004556965","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Oscillospirales;f__Oscillospiraceae;g__CAG-103;s__CAG-103 sp004556965",-5.03072844501324,0.0341487357961577,20731.224644478,"MAG291: p__Bacillota
+s__CAG-103 sp004556965","post-weaning","pre-weaning","-5.03 *",17.7442379346261
+"186","dev_stage","post-weaning_v_pre-weaning","MAG299","Spirochaetota","g__Ornithospirochaeta (2)","d__Bacteria;p__Spirochaetota;c__Spirochaetia;o__Sphaerochaetales;f__Sphaerochaetaceae;g__Ornithospirochaeta",-4.18534313054257,0.0226386370791729,39063.552674944,"MAG299: p__Spirochaetota
+g__Ornithospirochaeta (2)","post-weaning","pre-weaning","-4.19 *",18.0727906412943
+"187","dev_stage","post-weaning_v_pre-weaning","MAG307","Bacillota","g__Avilachnospira","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Lachnospirales;f__Lachnospiraceae;g__Avilachnospira",-9.0303825773152,4.25170140372982e-15,26816.8488728394,"MAG307: p__Bacillota
+g__Avilachnospira","post-weaning","pre-weaning","-9.03 ***",17.1883222850459
+"188","dev_stage","post-weaning_v_pre-weaning","MAG310","Bacillota","s__CAG-273 sp902406115","d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-273;s__CAG-273 sp902406115",5.95889569458931,0.0340435649738783,63665.5548318859,"MAG310: p__Bacillota
+s__CAG-273 sp902406115","post-weaning","pre-weaning","5.96 *",19.644323508704
+"189","dev_stage","post-weaning_v_pre-weaning","MAG353","Bacillota","s__PeH17 sp900542285","d__Bacteria;p__Bacillota_A;c__Clostridia;o__Christensenellales;f__CAG-138;g__PeH17;s__PeH17 sp900542285",-6.23500656222644,0.000397455187097327,34296.0765795176,"MAG353: p__Bacillota
+s__PeH17 sp900542285","post-weaning","pre-weaning","-6.24 ***",17.8391477832153
+"190","dev_stage","post-weaning_v_pre-weaning","MAG363","Bacteroidota","s__Bacteroides ovatus","d__Bacteria;p__Bacteroidota;c__Bacteroidia;o__Bacteroidales;f__Bacteroidaceae;g__Bacteroides;s__Bacteroides ovatus",6.03761724867752,0.0123173421674557,102645.224180762,"MAG363: p__Bacteroidota
+s__Bacteroides ovatus","post-weaning","pre-weaning","6.04 *",19.9746391200334
+"191","dev_stage","post-weaning_v_pre-weaning","MAG364","Bacillota","g__CAG-269 (9)","d__Bacteria;p__Bacillota_A;c__Clostridia;o__TANB77;f__CAG-508;g__CAG-269",3.80773689202224,0.0491026604176395,15266.5928303342,"MAG364: p__Bacillota
+g__CAG-269 (9)","post-weaning","pre-weaning","3.81 *",18.1103064717075

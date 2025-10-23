@@ -1,0 +1,133 @@
+"","category","contrast","gene","gene_id","annotation","log2FoldChange","padj","baseMean","label","bar_start","bar_stop","bar_label","bar_y"
+"1","diet","control_v_AcGGM","DUOXA1",100653516,"dual oxidase maturation factor 1",-1.24632811294341,0.00247276534039286,3936.73963641674,"DUOXA1
+dual oxidase maturation factor 1","control","AcGGM","-1.25 **",13.2991723230534
+"2","diet","control_v_AcGGM","LOC110255459",110255459,NA,6.42218364329531,0.0166771705896765,29.078075502804,"LOC110255459","control","AcGGM","6.42 *",8.44714299268304
+"3","diet","control_v_AcGGM","B4GALT1",100511655,NA,-1.16728094000021,0.0325857719941519,2058.96025743317,"B4GALT1","control","AcGGM","-1.17 *",12.5895901348223
+"4","diet","control_v_AcGGM","MYO3A",100515334,NA,8.44230016055782,0.000342788615690691,30.9320007408908,"MYO3A","control","AcGGM","8.44 ***",8.31789010702877
+"5","diet","control_v_AcGGM","LOC102163526",102163526,NA,5.02851152235089,0.0340075051392482,31.611917114251,"LOC102163526","control","AcGGM","5.03 *",8.20377053192479
+"6","diet","control_v_AcGGM","SPSB4",100624014,NA,-1.39738925940165,0.0306386526752087,742.673009617599,"SPSB4","control","AcGGM","-1.4 *",11.1384226947311
+"7","diet","control_v_AcGGM","LOC100522404",100522404,NA,-3.02738302315045,3.36931277232691e-12,1993.57612088569,"LOC100522404","control","AcGGM","-3.03 ***",13.4001992312293
+"8","diet","control_v_AcGGM","LOC100518860",100518860,NA,-1.57655955229581,0.00230164419378495,325.274602693892,"LOC100518860","control","AcGGM","-1.58 **",10.1118906038706
+"9","dev_stage","control_v_pre-weaning","LOC106509641",106509641,NA,18.5348423795436,1.28798208162971e-06,13.4693308220602,"LOC106509641","control","pre-weaning","18.53 ***",8.95189076058041
+"10","dev_stage","control_v_pre-weaning","LOC102158069",102158069,NA,18.6317194146055,0.000105785521737083,12.946423105489,"LOC102158069","control","pre-weaning","18.63 ***",8.90626633945448
+"11","dev_stage","control_v_pre-weaning","IL17F",100037933,NA,-20.2583775383375,9.46217533739403e-10,22.5893977607765,"IL17F","control","pre-weaning","-20.26 ***",9.20578879261723
+"12","dev_stage","control_v_pre-weaning","TLR2",396623,"toll like receptor 2",-1.61535041507293,0.000193848507195464,1703.34492964341,"TLR2
+toll like receptor 2","control","pre-weaning","-1.62 ***",13.3857489313106
+"13","dev_stage","control_v_pre-weaning","MYO3A",100515334,NA,8.40856617197722,0.00497538767523931,30.9320007408908,"MYO3A","control","pre-weaning","8.41 **",9.11007011722199
+"14","dev_stage","control_v_pre-weaning","SLC51A",100512372,"solute carrier family 51 alpha subunit",-2.04317455237238,0.0049401384501551,1459.62894605554,"SLC51A
+solute carrier family 51 alpha subunit","control","pre-weaning","-2.04 **",13.0979548407755
+"15","dev_stage","control_v_pre-weaning","LOC100522404",100522404,NA,-2.98495807141721,2.70313681205677e-06,1993.57612088569,"LOC100522404","control","pre-weaning","-2.98 ***",14.6764086818225
+"16","dev_stage","control_v_post-weaning","TBP",110259740,NA,-7.85173225103238,0.00807471987378559,27.1986974957098,"TBP","control","post-weaning","-7.85 **",7.9479689788184
+"17","dev_stage","control_v_post-weaning","POU3F2",100157279,NA,7.89837737860098,0.0271942266366379,13.3573851970045,"POU3F2","control","post-weaning","7.9 *",7.84325601038941
+"18","dev_stage","control_v_post-weaning","DUOXA1",100653516,"dual oxidase maturation factor 1",-1.22738336844301,0.0121042628685065,3936.73963641674,"DUOXA1
+dual oxidase maturation factor 1","control","post-weaning","-1.23 *",13.2991723230534
+"19","dev_stage","control_v_post-weaning","PARP16",100512642,NA,-2.46762163142696,0.0072695239317101,80.075513982395,"PARP16","control","post-weaning","-2.47 **",8.45958553105343
+"20","dev_stage","control_v_post-weaning","CARNS1",100512885,NA,-6.6820393714276,0.0462335066088105,16.1322230614343,"CARNS1","control","post-weaning","-6.68 *",7.76868182996104
+"21","dev_stage","control_v_post-weaning","GIF",100514273,NA,-8.1496065807202,0.00965311333924753,24.632628229323,"GIF","control","post-weaning","-8.15 **",8.60533718991362
+"22","dev_stage","control_v_post-weaning","MIR339-1",100498792,"microRNA 339-1",-6.76683172767074,0.0309020791469026,15.2908029917781,"MIR339-1
+microRNA 339-1","control","post-weaning","-6.77 *",7.59511132059333
+"23","dev_stage","control_v_post-weaning","ELFN1",100621128,NA,-6.97333638528562,0.0462335066088105,13.8327676297221,"ELFN1","control","post-weaning","-6.97 *",7.87530420124194
+"24","dev_stage","control_v_post-weaning","LOC106509641",106509641,NA,20.5644993299743,5.9696222367641e-11,13.4693308220602,"LOC106509641","control","post-weaning","20.56 ***",8.17346547705168
+"25","dev_stage","control_v_post-weaning","ASPN",100511749,"asporin",1.50968310747425,0.00179516235606959,1243.38004234681,"ASPN
+asporin","control","post-weaning","1.51 **",11.964862895103
+"26","dev_stage","control_v_post-weaning","LOC100737572",100737572,NA,8.11339619035791,0.0326755260660727,19.9442334582245,"LOC100737572","control","post-weaning","8.11 *",7.96053829848799
+"27","dev_stage","control_v_post-weaning","SLC3A1",100144588,"solute carrier family 3 member 1",-2.46316068463267,0.0462335066088105,175.736118215171,"SLC3A1
+solute carrier family 3 member 1","control","post-weaning","-2.46 *",9.74281681502199
+"28","dev_stage","control_v_post-weaning","LOC106504180",106504180,NA,19.5744503313962,5.5997293865516e-06,10.6011346344487,"LOC106504180","control","post-weaning","19.57 ***",8.11040878480789
+"29","dev_stage","control_v_post-weaning","LOC110260459",110260459,NA,8.05092315228721,0.0312621563060546,19.0625764789182,"LOC110260459","control","post-weaning","8.05 *",8.13180839689322
+"30","dev_stage","control_v_post-weaning","OLFML2B",100156452,NA,1.15155577510175,0.0225346231670989,558.72073717661,"OLFML2B","control","post-weaning","1.15 *",10.7274747985733
+"31","dev_stage","control_v_post-weaning","LOC110260338",110260338,NA,-6.61012190025887,0.0337172729859633,14.3686218589362,"LOC110260338","control","post-weaning","-6.61 *",7.56491571410688
+"32","dev_stage","control_v_post-weaning","LOC102158069",102158069,NA,20.4824782805137,5.14770465901541e-08,12.946423105489,"LOC102158069","control","post-weaning","20.48 ***",8.13180839689322
+"33","dev_stage","control_v_post-weaning","TROAP",100511692,NA,-7.20968442214097,0.0029999200149428,22.6688519253325,"TROAP","control","post-weaning","-7.21 **",7.69726793267734
+"34","dev_stage","control_v_post-weaning","SPSB2",100152120,"splA/ryanodine receptor domain and SOCS box containing 2",-1.76871521984388,0.0202811093295439,190.435269430874,"SPSB2
+splA/ryanodine receptor domain and SOCS box containing 2","control","post-weaning","-1.77 *",9.28781827125828
+"35","dev_stage","control_v_post-weaning","FGF6",100152116,NA,8.0505434174872,0.0202811093295439,14.1387444951016,"FGF6","control","post-weaning","8.05 *",7.85695253979316
+"36","dev_stage","control_v_post-weaning","IGF1",397491,"insulin like growth factor 1",1.39959628732069,0.0462335066088105,667.225226174579,"IGF1
+insulin like growth factor 1","control","post-weaning","1.4 *",11.3857457049563
+"37","dev_stage","control_v_post-weaning","AARS",100525399,NA,-1.26577846557248,0.0336963468715295,903.929276356859,"AARS","control","post-weaning","-1.27 *",11.3293708899856
+"38","dev_stage","control_v_post-weaning","RTN2",100170115,"reticulon 2",-6.69454749963097,0.0411506027425503,13.4622940127367,"RTN2
+reticulon 2","control","post-weaning","-6.69 *",7.59896652871965
+"39","dev_stage","control_v_post-weaning","C6H19orf68",102165016,NA,-7.30829096351761,0.00909377255552014,16.1278242964772,"C6H19orf68","control","post-weaning","-7.31 **",7.7497777149259
+"40","dev_stage","control_v_post-weaning","LOC110261361",110261361,NA,-7.05301374650194,0.00680178052498823,26.6669741049548,"LOC110261361","control","post-weaning","-7.05 **",8.00539245983645
+"41","dev_stage","control_v_post-weaning","ZNF865",100738374,NA,-1.72409776022145,0.0208471760944499,124.4736206479,"ZNF865","control","post-weaning","-1.72 *",8.84569173713918
+"42","dev_stage","control_v_post-weaning","SFN",733625,"stratifin",-1.25621579574745,0.00328026694039081,3022.17875183825,"SFN
+stratifin","control","post-weaning","-1.26 **",12.8277615141325
+"43","dev_stage","control_v_post-weaning","LOC100622481",100622481,NA,1.06539117058409,0.0449127533546337,4077.4649885428,"LOC100622481","control","post-weaning","1.07 *",13.2803672013836
+"44","dev_stage","control_v_post-weaning","LOC100523256",100523256,NA,8.48179890000349,0.0190686072389435,20.3164804808034,"LOC100523256","control","post-weaning","8.48 *",8.27023439002241
+"45","dev_stage","control_v_post-weaning","SERPINB1",100155145,NA,-1.21624870390792,0.0312621563060546,16985.5929650901,"SERPINB1","control","post-weaning","-1.22 *",15.5061860164298
+"46","dev_stage","control_v_post-weaning","LOC110261487",110261487,NA,-2.94265922475591,8.53558809160251e-07,204.151315305095,"LOC110261487","control","post-weaning","-2.94 ***",9.70665573439725
+"47","dev_stage","control_v_post-weaning","LOC100513601",100513601,"patr class I histocompatibility antigen, A-126 alpha chain-like",-1.81284864394823,0.000985208814956004,25931.6513421847,"LOC100513601
+patr class I histocompatibility antigen, A-126 alpha chain-like","control","post-weaning","-1.81 ***",16.6455756641481
+"48","dev_stage","control_v_post-weaning","SLA-DRB1",100153386,"MHC class II histocompatibility antigen SLA-DRB1",-1.8274984553037,6.10837984403144e-08,1271.13622832613,"SLA-DRB1
+MHC class II histocompatibility antigen SLA-DRB1","control","post-weaning","-1.83 ***",11.800487609652
+"49","dev_stage","control_v_post-weaning","TREML2",100738047,NA,-7.30416536984226,0.0115140596127883,18.2591646669257,"TREML2","control","post-weaning","-7.3 *",7.92087121412778
+"50","dev_stage","control_v_post-weaning","HMX1",100523559,NA,5.69325782137514,0.0253063327623225,30.6833778478328,"HMX1","control","post-weaning","5.69 *",8.2995970489897
+"51","dev_stage","control_v_post-weaning","ADH1C",100512615,"alcohol dehydrogenase 1C (class I), gamma polypeptide",1.21950765690215,0.0326755260660727,2483.10259783326,"ADH1C
+alcohol dehydrogenase 1C (class I), gamma polypeptide","control","post-weaning","1.22 *",12.7503425030586
+"52","dev_stage","control_v_post-weaning","LOC100520923",100520923,NA,1.44553561818775,0.0072695239317101,4270.79805952158,"LOC100520923","control","post-weaning","1.45 **",13.9936483791217
+"53","dev_stage","control_v_post-weaning","LOC110255459",110255459,NA,6.86269703648623,0.00328026694039081,29.078075502804,"LOC110255459","control","post-weaning","6.86 **",8.44714299268304
+"54","dev_stage","control_v_post-weaning","LOC110255568",110255568,NA,-7.32916717594152,0.0111541798291347,17.7135165411869,"LOC110255568","control","post-weaning","-7.33 *",7.85943350531578
+"55","dev_stage","control_v_post-weaning","FAM129A",100516994,"protein Niban-like",1.87753216388989,0.0463745868980431,114.327158977429,"FAM129A
+protein Niban-like","control","post-weaning","1.88 *",9.10534005703254
+"56","dev_stage","control_v_post-weaning","B4GALT1",100511655,NA,-1.15170317408364,0.0498540133698779,2058.96025743317,"B4GALT1","control","post-weaning","-1.15 *",12.5895901348223
+"57","dev_stage","control_v_post-weaning","C1QL3",100524890,NA,3.23597159472323,0.0462335066088105,39.7307779872337,"C1QL3","control","post-weaning","3.24 *",8.2995970489897
+"58","dev_stage","control_v_post-weaning","MYO3A",100515334,NA,8.46463819631289,0.000672217478881692,30.9320007408908,"MYO3A","control","post-weaning","8.46 ***",8.31789010702877
+"59","dev_stage","control_v_post-weaning","ATP7B",100049684,NA,-1.41289852593198,0.0304793679653966,291.125233483759,"ATP7B","control","post-weaning","-1.41 *",9.69647129200463
+"60","dev_stage","control_v_post-weaning","GEMIN4",100522827,NA,-2.24608460742185,0.0449127533546337,60.5802710988206,"GEMIN4","control","post-weaning","-2.25 *",8.42889766753193
+"61","dev_stage","control_v_post-weaning","LOC102163526",102163526,NA,5.48895251567658,0.0072695239317101,31.611917114251,"LOC102163526","control","post-weaning","5.49 **",8.20377053192479
+"62","dev_stage","control_v_post-weaning","SMCR8",100620365,NA,-2.33288769381593,0.0312621563060546,118.799663592288,"SMCR8","control","post-weaning","-2.33 *",8.91159210417185
+"63","dev_stage","control_v_post-weaning","MAP2K3",110256149,NA,-1.01647283132418,0.0463745868980431,2126.9667424349,"MAP2K3","control","post-weaning","-1.02 *",12.3199447576043
+"64","dev_stage","control_v_post-weaning","SPSB4",100624014,NA,-1.56247101218215,0.0076923735917335,742.673009617599,"SPSB4","control","post-weaning","-1.56 **",11.1384226947311
+"65","dev_stage","control_v_post-weaning","SEC62",100125961,"SEC62 homolog, preprotein translocation factor",1.05464237094409,0.0319765043458106,1903.97666784092,"SEC62
+SEC62 homolog, preprotein translocation factor","control","post-weaning","1.05 *",12.3247064369851
+"66","dev_stage","control_v_post-weaning","SST",494469,"somatostatin",-2.11305240939168,0.000985208814956004,152.694177268107,"SST
+somatostatin","control","post-weaning","-2.11 ***",9.15485441572077
+"67","dev_stage","control_v_post-weaning","CDK20",100157041,"cyclin dependent kinase 20",-4.39672653991799,0.0271942266366379,31.5542370705997,"CDK20
+cyclin dependent kinase 20","control","post-weaning","-4.4 *",7.90634220736567
+"68","dev_stage","control_v_post-weaning","HPS6",100049675,"HPS6, biogenesis of lysosomal organelles complex 2 subunit 3",-3.09421572208665,0.0299760189030189,119.773534580993,"HPS6
+HPS6, biogenesis of lysosomal organelles complex 2 subunit 3","control","post-weaning","-3.09 *",9.23005034318465
+"69","dev_stage","control_v_post-weaning","ACADSB",100154810,NA,1.38776700036043,0.0121042628685065,3895.19285110722,"ACADSB","control","post-weaning","1.39 *",13.747719415084
+"70","dev_stage","control_v_post-weaning","LY75",595126,"lymphocyte antigen 75",-1.99690072270733,0.0411506027425503,141.791638896539,"LY75
+lymphocyte antigen 75","control","post-weaning","-2 *",8.97150647024435
+"71","dev_stage","control_v_post-weaning","EEF1B2",100154920,"eukaryotic translation elongation factor 1 beta 2",1.27160493101395,0.0462335066088105,35083.5432310192,"EEF1B2
+eukaryotic translation elongation factor 1 beta 2","control","post-weaning","1.27 *",17.0759974815462
+"72","dev_stage","control_v_post-weaning","LOC100522404",100522404,NA,-3.05646854042462,6.60906758134976e-09,1993.57612088569,"LOC100522404","control","post-weaning","-3.06 ***",13.4001992312293
+"73","dev_stage","control_v_post-weaning","VSX1",100620386,NA,19.5744503313962,5.5997293865516e-06,10.6011346344487,"VSX1","control","post-weaning","19.57 ***",8.11040878480789
+"74","dev_stage","control_v_post-weaning","MAVS",100037290,"mitochondrial antiviral signaling protein",-1.48763453120578,0.0208471760944499,514.00911756644,"MAVS
+mitochondrial antiviral signaling protein","control","post-weaning","-1.49 *",10.5299599921408
+"75","dev_stage","control_v_post-weaning","BCL2L1",397536,"BCL2 like 1",-1.07482013615941,0.0121042628685065,1242.04872325669,"BCL2L1
+BCL2 like 1","control","post-weaning","-1.07 *",11.6510022349319
+"76","dev_stage","control_v_post-weaning","LOC106506661",106506661,NA,-6.73984919995627,0.0327458208172202,15.6193455914737,"LOC106506661","control","post-weaning","-6.74 *",7.68486263000181
+"77","dev_stage","control_v_post-weaning","SRMS",110257399,NA,-7.09085798694725,0.00807471987378559,27.6240383478514,"SRMS","control","post-weaning","-7.09 **",8.06524862727167
+"78","dev_stage","control_v_post-weaning","INMT",100512997,"indolethylamine N-methyltransferase",3.08167488664177,0.0121042628685065,81.5596340130601,"INMT
+indolethylamine N-methyltransferase","control","post-weaning","3.08 *",8.80334477848879
+"79","dev_stage","control_v_post-weaning","HOXA4",100519635,NA,-6.72556767094489,0.0312621563060546,17.5448921833793,"HOXA4","control","post-weaning","-6.73 *",7.84558515690987
+"80","dev_stage","control_v_post-weaning","GP91-PHOX",397108,"NADPH oxidase heavy chain subunit",-6.51032731749353,0.0309020791469026,17.0787046814086,"GP91-PHOX
+NADPH oxidase heavy chain subunit","control","post-weaning","-6.51 *",7.79113283887109
+"81","dev_stage","control_v_post-weaning","TRNAE-UUC_49",NA,NA,5.14167750193447,0.0152050360797459,23.1005648763048,"TRNAE-UUC_49","control","post-weaning","5.14 *",7.93556933737211
+"82","dev_stage","control_v_post-weaning","LOC100518860",100518860,NA,-1.54933484703817,0.0121042628685065,325.274602693892,"LOC100518860","control","post-weaning","-1.55 *",10.1118906038706
+"83","dev_stage","control_v_post-weaning","LOC110259059",110259059,NA,1.48084890502619,0.0462335066088105,569.531499799588,"LOC110259059","control","post-weaning","1.48 *",10.9660569372613
+"84","dev_stage","post-weaning_v_pre-weaning","PARP16",100512642,NA,2.64669858962395,0.0186943458256899,80.075513982395,"PARP16","post-weaning","pre-weaning","2.65 *",8.45958553105343
+"85","dev_stage","post-weaning_v_pre-weaning","FLYWCH2",100627929,"FLYWCH family member 2",2.41847462241469,0.0160840781932764,536.560206540838,"FLYWCH2
+FLYWCH family member 2","post-weaning","pre-weaning","2.42 *",11.3487367518046
+"86","dev_stage","post-weaning_v_pre-weaning","LOC106504180",106504180,NA,-24.0814908660041,2.72052160997662e-07,10.6011346344487,"LOC106504180","post-weaning","pre-weaning","-24.08 ***",8.11040878480789
+"87","dev_stage","post-weaning_v_pre-weaning","OLFML2B",100156452,NA,-1.39210627182375,0.0186547385791594,558.72073717661,"OLFML2B","post-weaning","pre-weaning","-1.39 *",10.7274747985733
+"88","dev_stage","post-weaning_v_pre-weaning","TROAP",100511692,NA,7.47251362567608,0.005122360466222,22.6688519253325,"TROAP","post-weaning","pre-weaning","7.47 **",7.69726793267734
+"89","dev_stage","post-weaning_v_pre-weaning","LOC110261361",110261361,NA,8.08198848307324,0.00184396774670888,26.6669741049548,"LOC110261361","post-weaning","pre-weaning","8.08 **",8.00539245983645
+"90","dev_stage","post-weaning_v_pre-weaning","LOC110261487",110261487,NA,3.63891219011354,1.09891833869918e-08,204.151315305095,"LOC110261487","post-weaning","pre-weaning","3.64 ***",9.70665573439725
+"91","dev_stage","post-weaning_v_pre-weaning","SLA-DRB1",100153386,"MHC class II histocompatibility antigen SLA-DRB1",1.28250492081776,0.0263270694928393,1271.13622832613,"SLA-DRB1
+MHC class II histocompatibility antigen SLA-DRB1","post-weaning","pre-weaning","1.28 *",11.800487609652
+"92","dev_stage","post-weaning_v_pre-weaning","IL17F",100037933,NA,-21.4305715952205,2.21806646386098e-11,22.5893977607765,"IL17F","post-weaning","pre-weaning","-21.43 ***",8.40528541934617
+"93","dev_stage","post-weaning_v_pre-weaning","HMX1",100523559,NA,-8.75574223223131,0.0211135421879904,30.6833778478328,"HMX1","post-weaning","pre-weaning","-8.76 *",8.2995970489897
+"94","dev_stage","post-weaning_v_pre-weaning","LOC102165510",102165510,NA,-6.17379909614074,0.0388160575262603,37.5330390396597,"LOC102165510","post-weaning","pre-weaning","-6.17 *",8.32693583765413
+"95","dev_stage","post-weaning_v_pre-weaning","LOC100520923",100520923,NA,-2.35453881461827,2.72052160997662e-07,4270.79805952158,"LOC100520923","post-weaning","pre-weaning","-2.35 ***",13.9936483791217
+"96","dev_stage","post-weaning_v_pre-weaning","BMP3",100512974,"bone morphogenetic protein 3",3.01965367965914,0.0326603556904049,82.5842987974406,"BMP3
+bone morphogenetic protein 3","post-weaning","pre-weaning","3.02 *",8.60154264951998
+"97","dev_stage","post-weaning_v_pre-weaning","LOC106505250",106505250,NA,-7.65798711877434,0.0460746855434421,16.3471885073635,"LOC106505250","post-weaning","pre-weaning","-7.66 *",7.79408038273941
+"98","dev_stage","post-weaning_v_pre-weaning","SLC51A",100512372,"solute carrier family 51 alpha subunit",-1.77466793559127,0.028670993130206,1459.62894605554,"SLC51A
+solute carrier family 51 alpha subunit","post-weaning","pre-weaning","-1.77 *",11.9590022459255
+"99","dev_stage","post-weaning_v_pre-weaning","VSX1",100620386,NA,-24.0814908660041,2.72052160997662e-07,10.6011346344487,"VSX1","post-weaning","pre-weaning","-24.08 ***",8.11040878480789
+"100","dev_stage","post-weaning_v_pre-weaning","SRMS",110257399,NA,8.13882012373525,0.00309291203449763,27.6240383478514,"SRMS","post-weaning","pre-weaning","8.14 **",8.06524862727167
+"101","dev_stage","post-weaning_v_pre-weaning","GP91-PHOX",397108,"NADPH oxidase heavy chain subunit",7.35924586633257,0.0268121962076691,17.0787046814086,"GP91-PHOX
+NADPH oxidase heavy chain subunit","post-weaning","pre-weaning","7.36 *",7.79113283887109
+"102","dev_stage","post-weaning_v_pre-weaning","LOC110259059",110259059,NA,-2.22658310335067,0.00146059958107469,569.531499799588,"LOC110259059","post-weaning","pre-weaning","-2.23 **",10.9660569372613
