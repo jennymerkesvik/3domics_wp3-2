@@ -1,4 +1,6 @@
-# 3domics_wp3-2
+# Integrative holo-omic data analysis predicts interactions across the host-microbiome axis
+*Authors: Jenny Merkesvik, Jorge Langa, Carlotta Pietroni, Antton Alberdi, Louise Ladefoged Poulsen, Anders Miki Bojesen, Topi Meuronen, Soile Turunen, Olli Kärkkäinen, Bjørge Westereng, Philip B Pope, and Torgeir R Hvidsten.*
+
 This repo contains data and results from a holo-omic integration study described in the manuscript "Integrative holo-omic data analysis predicts interactions across the host-microbiome axis" (doi 10.1101/2025.10.21.683681). This study is part of the 3D'omics project (EU Horizon 2020 Research and Innovation programme, grant number 101000309), and the PhD thesis of Jenny Merkesvik (Norwegian University of Life Science; Ås, Norway; doi TBA).
 
 In the manuscript, we describe how we used a computational method designed for multi-omic analysis in eukaryotes to integrate and analyse five layers of holo-omic data from porcine hosts and their gut microbiomes. The omic data originates from a 3D'omics swine trial involving microbiome-directed fibre additives to the porcine diet starting at different developmental stages, aiming to selectively stimulate beneficial microbial populations in the infant porcine gut. This feeding trial is one of several conducted in the 3D'omics project to improve our understanding of the interplay between host organisms and their microbiomes to facilitate the development of sustainable food systems.
