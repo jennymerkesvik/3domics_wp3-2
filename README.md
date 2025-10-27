@@ -1,5 +1,5 @@
 # Integrative holo-omic data analysis predicts interactions across the host-microbiome axis
-*Authors: Jenny Merkesvik, Jorge Langa, Carlotta Pietroni, Antton Alberdi, Louise Ladefoged Poulsen, Anders Miki Bojesen, Topi Meuronen, Soile Turunen, Olli Kärkkäinen, Bjørge Westereng, Philip B Pope, and Torgeir R Hvidsten.*
+*Authors: Jenny Merkesvik, Jorge Langa, Carlotta Pietroni, Antton Alberdi, Louise Ladefoged Poulsen, Anders Miki Bojesen, Topi Meuronen, Soile Turunen, Olli Kärkkäinen, Bjørge Westereng, Phillip B Pope, and Torgeir R Hvidsten.*
 
 This repo contains data and results from a holo-omic integration study described in the manuscript "Integrative holo-omic data analysis predicts interactions across the host-microbiome axis" (doi 10.1101/2025.10.21.683681). This study is part of the 3D'omics project (EU Horizon 2020 Research and Innovation programme, grant number 101000309), and the PhD thesis of Jenny Merkesvik (Norwegian University of Life Science; Ås, Norway; doi TBA).
 
